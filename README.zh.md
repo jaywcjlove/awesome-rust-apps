@@ -108,6 +108,7 @@
 - [Flectar Mail](https://github.com/flectar/mail) <img align="bottom" height="13" src="https://badgen.net/github/stars/flectar/mail?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/flectar/mail?style=flat&label=" /> - 支持离线使用的邮件、日历和联系人管理客户端。
 - [Combe](https://github.com/samzong/combe) <img align="bottom" height="13" src="https://badgen.net/github/stars/samzong/combe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samzong/combe?style=flat&label=" /> - 带 worktree 目录的 macOS 原生终端。
 - [buffTerm](https://github.com/shaguocgl/buff-term) - AI 驱动的桌面 SSH 管理工具，支持通过自然语言管理服务器。
+- [con](https://github.com/nowledge-co/con-terminal) <img align="bottom" height="13" src="https://badgen.net/github/stars/nowledge-co/con-terminal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nowledge-co/con-terminal?style=flat&label=" /> - 内置终端原生 AI 执行框架的 GPU 加速终端模拟器。
 
 ## 图形与设计
 
