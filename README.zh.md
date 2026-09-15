@@ -128,6 +128,7 @@
 - [Ferrox](https://github.com/antonellof/ferrox) <img align="bottom" height="13" src="https://badgen.net/github/stars/antonellof/ferrox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/antonellof/ferrox?style=flat&label=" /> - llama.cpp 的原生推理引擎替代方案。
 - [Waku](https://github.com/egoist/waku) <img align="bottom" height="13" src="https://badgen.net/github/stars/egoist/waku?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/egoist/waku?style=flat&label=" /> - 用于统一管理多款 AI 编码 Agent CLI 的高性能原生桌面客户端。
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moresyl/dsh-studio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moresyl/dsh-studio?style=flat&label=" /> - 用于使用 DeepSeek 的跨平台桌面应用。
+- [Vibe Observer](https://github.com/AIchovy/vibe-observer) <img align="bottom" height="13" src="https://badgen.net/github/stars/AIchovy/vibe-observer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AIchovy/vibe-observer?style=flat&label=" /> - 用于分析 Claude Code token 使用量、成本和会话开销的 macOS 应用。
 
 ## 贡献者
 
