@@ -106,6 +106,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [todofy](https://github.com/salarzeidanlou/todofy) <img align="bottom" height="13" src="https://badgen.net/github/stars/salarzeidanlou/todofy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/salarzeidanlou/todofy?style=flat&label=" /> - Task manager with smart lists, recurring tasks, Pomodoro, reminders, and tray support.
 - [Wu](https://github.com/farshed/wu) <img align="bottom" height="13" src="https://badgen.net/github/stars/farshed/wu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/farshed/wu?style=flat&label=" /> - A fast, lightweight native code editor focused on core editing.
 - [OpenLogi](https://github.com/AprilNEA/OpenLogi) <img align="bottom" height="13" src="https://badgen.net/github/stars/AprilNEA/OpenLogi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AprilNEA/OpenLogi?style=flat&label=" /> - Open-source Logitech mouse configurator for buttons, DPI, and SmartShift.
+- [Flectar Mail](https://github.com/flectar/mail) <img align="bottom" height="13" src="https://badgen.net/github/stars/flectar/mail?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/flectar/mail?style=flat&label=" /> - Offline-first mail, calendar, and contacts client.
 
 ## Graphics & Design
 
