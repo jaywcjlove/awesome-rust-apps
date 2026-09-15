@@ -103,6 +103,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [RustCast](https://github.com/unsecretised/rustcast) <img align="bottom" height="13" src="https://badgen.net/github/stars/unsecretised/rustcast?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/unsecretised/rustcast?style=flat&label=" /> - Fast launcher for apps, tools, and workflows.
 - [青简 Qingjian](https://github.com/qingjian-team/qingjian) <img align="bottom" height="13" src="https://badgen.net/github/stars/qingjian-team/qingjian?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qingjian-team/qingjian?style=flat&label=" /> - Cross-platform pinyin input method with inline translations for language learning.
 - [NeoHtop](https://github.com/Abdenasser/neohtop) <img align="bottom" height="13" src="https://badgen.net/github/stars/Abdenasser/neohtop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Abdenasser/neohtop?style=flat&label=" /> - A lightweight cross-platform system monitor with process management.
+- [todofy](https://github.com/salarzeidanlou/todofy) <img align="bottom" height="13" src="https://badgen.net/github/stars/salarzeidanlou/todofy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/salarzeidanlou/todofy?style=flat&label=" /> - Cross-platform task manager with smart lists, recurring tasks, Pomodoro, reminders, and tray support.
 
 ## Graphics & Design
 
