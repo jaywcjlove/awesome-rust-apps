@@ -4,13 +4,6 @@
   <br>
   <br>
 
-  <a href="https://lizhi.shop/?cid=nboxz71a">
-    <img alt="LIZHI.SHOP｜精选软件，正版保真，超值特惠" width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
-  </a>
-  <br>
-  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
-  <br><br>
-
   <a href="https://apps.apple.com/app/apple-store/id6757860829?pt=80185800&ct=jay&mt=8">
     <img alt="SubList" width="400" src="https://jaywcjlove.github.io/sponsor/SubList.jpg">
   </a>
@@ -143,6 +136,7 @@
 - [Higgs](https://github.com/panbanda/higgs) <img align="bottom" height="13" src="https://badgen.net/github/stars/panbanda/higgs?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/panbanda/higgs?style=flat&label=" /> - 本地运行 MLX 模型并提供 OpenAI、Anthropic 兼容 API、多提供商路由和仪表盘的应用。
 - [Ferrox](https://github.com/antonellof/ferrox) <img align="bottom" height="13" src="https://badgen.net/github/stars/antonellof/ferrox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/antonellof/ferrox?style=flat&label=" /> - llama.cpp 的原生推理引擎替代方案。
 - [Waku](https://github.com/egoist/waku) <img align="bottom" height="13" src="https://badgen.net/github/stars/egoist/waku?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/egoist/waku?style=flat&label=" /> - 用于统一管理多款 AI 编码 Agent CLI 的高性能原生桌面客户端。
+- [DSH Studio](https://github.com/Moresyl/dsh-studio) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moresyl/dsh-studio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moresyl/dsh-studio?style=flat&label=" /> - 用于使用 DeepSeek 的跨平台桌面应用。
 
 ## 贡献者
 

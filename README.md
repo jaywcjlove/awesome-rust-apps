@@ -4,13 +4,6 @@
   <br>
   <br>
 
-  <a href="https://lizhi.shop/?cid=nboxz71a">
-    <img alt="LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals." width="400" src="https://jaywcjlove.github.io/sponsor/lizhi.shop.png">
-  </a>
-  <br>
-  <a href="https://lizhi.shop/?cid=nboxz71a">LIZHI.SHOP - Selected Software. 100% Genuine. Best Deals.</a>
-  <br><br>
-
   <a href="https://apps.apple.com/app/apple-store/id6757860829?pt=80185800&ct=jay&mt=8">
     <img alt="SubList" width="400" src="https://jaywcjlove.github.io/sponsor/SubList.jpg">
   </a>
@@ -144,6 +137,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Higgs](https://github.com/panbanda/higgs) <img align="bottom" height="13" src="https://badgen.net/github/stars/panbanda/higgs?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/panbanda/higgs?style=flat&label=" /> - A local MLX model runner with OpenAI and Anthropic-compatible APIs, multi-provider routing, and a dashboard.
 - [Ferrox](https://github.com/antonellof/ferrox) <img align="bottom" height="13" src="https://badgen.net/github/stars/antonellof/ferrox?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/antonellof/ferrox?style=flat&label=" /> - A native inference engine and drop-in alternative to llama.cpp.
 - [Waku](https://github.com/egoist/waku) <img align="bottom" height="13" src="https://badgen.net/github/stars/egoist/waku?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/egoist/waku?style=flat&label=" /> - A high-performance native desktop client for managing multiple AI coding agent CLIs.
+- [DSH Studio](https://github.com/Moresyl/dsh-studio) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moresyl/dsh-studio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moresyl/dsh-studio?style=flat&label=" /> - A cross-platform desktop application for working with DeepSeek.
 
 
 ## Contributors
