@@ -1,0 +1,2 @@
+https://wangchujiang.com/awesome-rust-apps/index.html
+https://wangchujiang.com/awesome-rust-apps/index.zh.html
