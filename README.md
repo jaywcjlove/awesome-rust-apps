@@ -131,6 +131,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Waku](https://github.com/egoist/waku) <img align="bottom" height="13" src="https://badgen.net/github/stars/egoist/waku?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/egoist/waku?style=flat&label=" /> - A high-performance native desktop client for managing multiple AI coding agent CLIs.
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moresyl/dsh-studio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moresyl/dsh-studio?style=flat&label=" /> - A cross-platform desktop application for working with DeepSeek.
 - [Vibe Observer](https://github.com/AIchovy/vibe-observer) <img align="bottom" height="13" src="https://badgen.net/github/stars/AIchovy/vibe-observer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AIchovy/vibe-observer?style=flat&label=" /> - A macOS app for tracking Claude Code token usage, costs, and session spending.
+- [Wake](https://github.com/iAmCorey/Wake) <img align="bottom" height="13" src="https://badgen.net/github/stars/iAmCorey/Wake?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iAmCorey/Wake?style=flat&label=" /> - A native macOS app for organizing and searching coding agent sessions.
 
 
 ## Contributors
