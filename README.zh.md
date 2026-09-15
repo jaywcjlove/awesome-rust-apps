@@ -103,6 +103,7 @@
 - [青简 Qingjian](https://github.com/qingjian-team/qingjian) <img align="bottom" height="13" src="https://badgen.net/github/stars/qingjian-team/qingjian?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qingjian-team/qingjian?style=flat&label=" /> - 带候选词译文的跨平台拼音输入法。
 - [NeoHtop](https://github.com/Abdenasser/neohtop) <img align="bottom" height="13" src="https://badgen.net/github/stars/Abdenasser/neohtop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Abdenasser/neohtop?style=flat&label=" /> - 轻量的跨平台系统监视器，支持进程管理。
 - [todofy](https://github.com/salarzeidanlou/todofy) <img align="bottom" height="13" src="https://badgen.net/github/stars/salarzeidanlou/todofy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/salarzeidanlou/todofy?style=flat&label=" /> - 支持智能列表、循环任务、番茄钟和提醒的跨平台待办应用。
+- [Wu](https://github.com/farshed/wu) <img align="bottom" height="13" src="https://badgen.net/github/stars/farshed/wu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/farshed/wu?style=flat&label=" /> - 快速轻量、专注核心编辑功能的原生代码编辑器。
 
 ## 图形与设计
 
