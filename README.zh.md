@@ -106,6 +106,7 @@
 - [Wu](https://github.com/farshed/wu) <img align="bottom" height="13" src="https://badgen.net/github/stars/farshed/wu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/farshed/wu?style=flat&label=" /> - 快速轻量、专注核心编辑功能的原生代码编辑器。
 - [OpenLogi](https://github.com/AprilNEA/OpenLogi) <img align="bottom" height="13" src="https://badgen.net/github/stars/AprilNEA/OpenLogi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AprilNEA/OpenLogi?style=flat&label=" /> - 开源的 Logitech 鼠标配置工具，支持按键、DPI 和 SmartShift 设置。
 - [Flectar Mail](https://github.com/flectar/mail) <img align="bottom" height="13" src="https://badgen.net/github/stars/flectar/mail?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/flectar/mail?style=flat&label=" /> - 支持离线使用的邮件、日历和联系人管理客户端。
+- [Combe](https://github.com/samzong/combe) <img align="bottom" height="13" src="https://badgen.net/github/stars/samzong/combe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samzong/combe?style=flat&label=" /> - 带 worktree 目录的 macOS 原生终端。
 
 ## 图形与设计
 
