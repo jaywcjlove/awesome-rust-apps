@@ -108,6 +108,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [OpenLogi](https://github.com/AprilNEA/OpenLogi) <img align="bottom" height="13" src="https://badgen.net/github/stars/AprilNEA/OpenLogi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AprilNEA/OpenLogi?style=flat&label=" /> - Open-source Logitech mouse configurator for buttons, DPI, and SmartShift.
 - [Flectar Mail](https://github.com/flectar/mail) <img align="bottom" height="13" src="https://badgen.net/github/stars/flectar/mail?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/flectar/mail?style=flat&label=" /> - Offline-first mail, calendar, and contacts client.
 - [Combe](https://github.com/samzong/combe) <img align="bottom" height="13" src="https://badgen.net/github/stars/samzong/combe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samzong/combe?style=flat&label=" /> - A native macOS terminal with a worktree catalog.
+- [buffTerm](https://github.com/shaguocgl/buff-term) - AI-powered desktop SSH manager for natural-language server management.
 
 ## Graphics & Design
 
