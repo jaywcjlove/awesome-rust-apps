@@ -21,20 +21,6 @@
   <a href="https://screensage.pro/">ScreenSage Pro, record beautiful screen recordings in minutes on macOS</a>
   <br><br>
 
-  <a href="https://ip.im/">
-    <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
-  </a>
-  <br>
-  <a href="https://ip.im/">IP.IM, Free IP address information query website</a>
-  <br><br>
-
-  <a href="https://hipixel.5km.tech/">
-    <img alt="HiPixel" width="400" src="https://jaywcjlove.github.io/sponsor/HiPixel.jpeg">
-  </a>
-  <br>
-  <a href="https://hipixel.5km.tech/">HiPixel, An AI image super-resolution (upscaling and enhancement) tool designed specifically for macOS</a>
-  <br><br>
-
 </div>
 <hr>
 
@@ -114,6 +100,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [FluxDown](https://github.com/zerx-lab/FluxDown) <img align="bottom" height="13" src="https://badgen.net/github/stars/zerx-lab/FluxDown?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zerx-lab/FluxDown?style=flat&label=" /> - A multi-protocol downloader supporting HTTP, BitTorrent magnets, ED2K, and streaming media.
 - [Zephyr](https://github.com/Juwan-Hwang/Zephyr) <img align="bottom" height="13" src="https://badgen.net/github/stars/Juwan-Hwang/Zephyr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Juwan-Hwang/Zephyr?style=flat&label=" /> - A cross-platform Mihomo (Clash Meta) desktop proxy client.
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) <img align="bottom" height="13" src="https://badgen.net/github/stars/tover0314-w/opentypeless?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tover0314-w/opentypeless?style=flat&label=" /> - A cross-platform desktop tool for global AI voice input.
+- [NeoHtop](https://github.com/Abdenasser/neohtop) <img align="bottom" height="13" src="https://badgen.net/github/stars/Abdenasser/neohtop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Abdenasser/neohtop?style=flat&label=" /> - A lightweight cross-platform system monitor with process management.
 
 ## Graphics & Design
 

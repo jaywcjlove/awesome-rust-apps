@@ -20,20 +20,6 @@
   <a href="https://screensage.pro/">ScreenSage Pro，在 macOS 上几分钟内录制精美的屏幕录像</a>
   <br><br>
 
-  <a href="https://ip.im/">
-    <img alt="IP.IM" width="400" src="https://jaywcjlove.github.io/sponsor/ip.im.png">
-  </a>
-  <br>
-  <a href="https://ip.im/">IP.IM，免费 IP 地址信息查询网站</a>
-  <br><br>
-
-  <a href="https://hipixel.5km.tech/">
-    <img alt="HiPixel" width="400" src="https://jaywcjlove.github.io/sponsor/HiPixel.jpeg">
-  </a>
-  <br>
-  <a href="https://hipixel.5km.tech/">HiPixel，专为 macOS 打造的 AI 图像超分辨率（放大增强）工具</a>
-  <br><br>
-
 </div>
 <hr>
 
@@ -113,6 +99,7 @@
 - [FluxDown](https://github.com/zerx-lab/FluxDown) <img align="bottom" height="13" src="https://badgen.net/github/stars/zerx-lab/FluxDown?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zerx-lab/FluxDown?style=flat&label=" /> - 支持 HTTP、BT 磁力链接、ED2K 和流媒体的多协议下载工具。
 - [Zephyr](https://github.com/Juwan-Hwang/Zephyr) <img align="bottom" height="13" src="https://badgen.net/github/stars/Juwan-Hwang/Zephyr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Juwan-Hwang/Zephyr?style=flat&label=" /> - 跨平台的 Mihomo（Clash Meta）桌面代理客户端。
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) <img align="bottom" height="13" src="https://badgen.net/github/stars/tover0314-w/opentypeless?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tover0314-w/opentypeless?style=flat&label=" /> - 跨平台的全局 AI 语音输入桌面工具。
+- [NeoHtop](https://github.com/Abdenasser/neohtop) <img align="bottom" height="13" src="https://badgen.net/github/stars/Abdenasser/neohtop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Abdenasser/neohtop?style=flat&label=" /> - 轻量的跨平台系统监视器，支持进程管理。
 
 ## 图形与设计
 
