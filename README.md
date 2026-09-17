@@ -111,6 +111,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Combe](https://github.com/samzong/combe) <img align="bottom" height="13" src="https://badgen.net/github/stars/samzong/combe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/samzong/combe?style=flat&label=" /> - A native macOS terminal with a worktree catalog.
 - [buffTerm](https://github.com/shaguocgl/buff-term) - AI-powered desktop SSH manager for natural-language server management.
 - [con](https://github.com/nowledge-co/con-terminal) <img align="bottom" height="13" src="https://badgen.net/github/stars/nowledge-co/con-terminal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nowledge-co/con-terminal?style=flat&label=" /> - A GPU-accelerated terminal emulator with a terminal-native AI harness.
+- [LumeTrace](https://github.com/gurudin/lumetrace) - A fast, efficient open-source macOS file manager.
 
 ## Graphics & Design
 
