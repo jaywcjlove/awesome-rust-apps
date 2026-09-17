@@ -80,6 +80,7 @@
 ## 目录
 
 - [工具与实用程序](#工具与实用程序)
+- [输入法](#输入法)
 - [图形与设计](#图形与设计)
 - [视频与音频](#视频与音频)
 - [AI 与机器学习](#ai-与机器学习)
@@ -100,8 +101,6 @@
 - [Zephyr](https://github.com/Juwan-Hwang/Zephyr) <img align="bottom" height="13" src="https://badgen.net/github/stars/Juwan-Hwang/Zephyr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Juwan-Hwang/Zephyr?style=flat&label=" /> - 跨平台的 Mihomo（Clash Meta）桌面代理客户端。
 - [OpenTypeless](https://github.com/tover0314-w/opentypeless) <img align="bottom" height="13" src="https://badgen.net/github/stars/tover0314-w/opentypeless?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tover0314-w/opentypeless?style=flat&label=" /> - 跨平台的全局 AI 语音输入桌面工具。
 - [RustCast](https://github.com/unsecretised/rustcast) <img align="bottom" height="13" src="https://badgen.net/github/stars/unsecretised/rustcast?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/unsecretised/rustcast?style=flat&label=" /> - 快速启动应用、工具并管理工作流。
-- [青简 Qingjian](https://github.com/qingjian-team/qingjian) <img align="bottom" height="13" src="https://badgen.net/github/stars/qingjian-team/qingjian?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qingjian-team/qingjian?style=flat&label=" /> - 带候选词译文的跨平台拼音输入法。
-- [微明 Glimmer](https://github.com/rambocode/glimmer) <img align="bottom" height="13" src="https://badgen.net/github/stars/rambocode/glimmer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rambocode/glimmer?style=flat&label=" /> - 跨平台输入法。
 - [NeoHtop](https://github.com/Abdenasser/neohtop) <img align="bottom" height="13" src="https://badgen.net/github/stars/Abdenasser/neohtop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Abdenasser/neohtop?style=flat&label=" /> - 轻量的跨平台系统监视器，支持进程管理。
 - [todofy](https://github.com/salarzeidanlou/todofy) <img align="bottom" height="13" src="https://badgen.net/github/stars/salarzeidanlou/todofy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/salarzeidanlou/todofy?style=flat&label=" /> - 支持智能列表、循环任务、番茄钟和提醒的跨平台待办应用。
 - [Wu](https://github.com/farshed/wu) <img align="bottom" height="13" src="https://badgen.net/github/stars/farshed/wu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/farshed/wu?style=flat&label=" /> - 快速轻量、专注核心编辑功能的原生代码编辑器。
@@ -112,6 +111,11 @@
 - [con](https://github.com/nowledge-co/con-terminal) <img align="bottom" height="13" src="https://badgen.net/github/stars/nowledge-co/con-terminal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nowledge-co/con-terminal?style=flat&label=" /> - 内置终端原生 AI 执行框架的 GPU 加速终端模拟器。
 - [LumeTrace](https://github.com/gurudin/lumetrace) <img align="bottom" height="13" src="https://badgen.net/github/stars/gurudin/lumetrace?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gurudin/lumetrace?style=flat&label=" /> - 专注于快速高效文件浏览的开源 macOS 文件管理器。
 - [HopToDesk](https://gitlab.com/hoptodesk/hoptodesk) <img align="bottom" height="13" src="https://badgen.net/gitlab/stars/hoptodesk/hoptodesk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/gitlab/last-commit/hoptodesk/hoptodesk?style=flat&label=" /> - 免费的远程访问平台，用于连接和管理设备。
+
+## 输入法
+
+- [青简 Qingjian](https://github.com/qingjian-team/qingjian) <img align="bottom" height="13" src="https://badgen.net/github/stars/qingjian-team/qingjian?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/qingjian-team/qingjian?style=flat&label=" /> - 带候选词译文的跨平台拼音输入法。
+- [微明 Glimmer](https://github.com/rambocode/glimmer) <img align="bottom" height="13" src="https://badgen.net/github/stars/rambocode/glimmer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rambocode/glimmer?style=flat&label=" /> - 跨平台输入法。
 
 ## 图形与设计
 
