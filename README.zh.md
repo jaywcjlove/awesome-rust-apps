@@ -111,7 +111,7 @@
 - [buffTerm](https://github.com/shaguocgl/buff-term) <img align="bottom" height="13" src="https://badgen.net/github/stars/shaguocgl/buff-term?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shaguocgl/buff-term?style=flat&label=" /> - AI 驱动的桌面 SSH 管理工具，支持通过自然语言管理服务器。
 - [con](https://github.com/nowledge-co/con-terminal) <img align="bottom" height="13" src="https://badgen.net/github/stars/nowledge-co/con-terminal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nowledge-co/con-terminal?style=flat&label=" /> - 内置终端原生 AI 执行框架的 GPU 加速终端模拟器。
 - [LumeTrace](https://github.com/gurudin/lumetrace) <img align="bottom" height="13" src="https://badgen.net/github/stars/gurudin/lumetrace?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gurudin/lumetrace?style=flat&label=" /> - 专注于快速高效文件浏览的开源 macOS 文件管理器。
-- [HopToDesk](https://gitlab.com/hoptodesk/hoptodesk) <img align="bottom" height="13" src="https://badgen.net/github/stars/hoptodesk/hoptodesk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hoptodesk/hoptodesk?style=flat&label=" /> - 免费的远程访问平台，用于连接和管理设备。
+- [HopToDesk](https://gitlab.com/hoptodesk/hoptodesk) <img align="bottom" height="13" src="https://badgen.net/gitlab/stars/hoptodesk/hoptodesk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/gitlab/last-commit/hoptodesk/hoptodesk?style=flat&label=" /> - 免费的远程访问平台，用于连接和管理设备。
 
 ## 图形与设计
 
