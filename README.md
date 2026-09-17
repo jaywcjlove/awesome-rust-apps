@@ -112,7 +112,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [buffTerm](https://github.com/shaguocgl/buff-term) <img align="bottom" height="13" src="https://badgen.net/github/stars/shaguocgl/buff-term?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/shaguocgl/buff-term?style=flat&label=" /> - AI-powered desktop SSH manager for natural-language server management.
 - [con](https://github.com/nowledge-co/con-terminal) <img align="bottom" height="13" src="https://badgen.net/github/stars/nowledge-co/con-terminal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nowledge-co/con-terminal?style=flat&label=" /> - A GPU-accelerated terminal emulator with a terminal-native AI harness.
 - [LumeTrace](https://github.com/gurudin/lumetrace) <img align="bottom" height="13" src="https://badgen.net/github/stars/gurudin/lumetrace?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gurudin/lumetrace?style=flat&label=" /> - A fast, efficient open-source macOS file manager.
-- [HopToDesk](https://gitlab.com/hoptodesk/hoptodesk) - A free remote access platform for connecting to and managing devices.
+- [HopToDesk](https://gitlab.com/hoptodesk/hoptodesk) <img align="bottom" height="13" src="https://badgen.net/github/stars/hoptodesk/hoptodesk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hoptodesk/hoptodesk?style=flat&label=" /> - A free remote access platform for connecting to and managing devices.
 
 ## Graphics & Design
 
