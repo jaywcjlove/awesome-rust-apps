@@ -113,6 +113,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [LumeTrace](https://github.com/gurudin/lumetrace) <img align="bottom" height="13" src="https://badgen.net/github/stars/gurudin/lumetrace?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gurudin/lumetrace?style=flat&label=" /> - A fast, efficient open-source macOS file manager.
 - [HopToDesk](https://gitlab.com/hoptodesk/hoptodesk) <img align="bottom" height="13" src="https://badgen.net/gitlab/stars/hoptodesk/hoptodesk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/gitlab/last-commit/hoptodesk/hoptodesk?style=flat&label=" /> - A free remote access platform for connecting to and managing devices.
 - [workbuddy-switch](https://github.com/changexbc/workbuddy-switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/changexbc/workbuddy-switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/changexbc/workbuddy-switch?style=flat&label=" /> - A desktop app for switching WorkBuddy/CodeBuddy accounts, with credit monitoring and auto check-in.
+- [smabar](https://github.com/PleasePrompto/smabar) <img align="bottom" height="13" src="https://badgen.net/github/stars/PleasePrompto/smabar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PleasePrompto/smabar?style=flat&label=" /> - A screen-edge app dock for apps, files, and websites, extendable with plugins.
 
 ## Input Methods
 
