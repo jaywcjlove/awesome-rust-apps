@@ -145,6 +145,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [DSH Studio](https://github.com/Moresyl/dsh-studio) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moresyl/dsh-studio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moresyl/dsh-studio?style=flat&label=" /> - A cross-platform desktop application for working with DeepSeek.
 - [Vibe Observer](https://github.com/AIchovy/vibe-observer) <img align="bottom" height="13" src="https://badgen.net/github/stars/AIchovy/vibe-observer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AIchovy/vibe-observer?style=flat&label=" /> - A macOS app for tracking Claude Code token usage, costs, and session spending.
 - [Wake](https://github.com/iAmCorey/Wake) <img align="bottom" height="13" src="https://badgen.net/github/stars/iAmCorey/Wake?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iAmCorey/Wake?style=flat&label=" /> - A native macOS app for organizing and searching coding agent sessions.
+- [Codex Quota Dot](https://github.com/Silvren/codex-quota-dot) <img align="bottom" height="13" src="https://badgen.net/github/stars/Silvren/codex-quota-dot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Silvren/codex-quota-dot?style=flat&label=" /> - A lightweight floating widget for monitoring Codex CLI/Desktop quota, limits, and reset times.
 
 
 ## Contributors
