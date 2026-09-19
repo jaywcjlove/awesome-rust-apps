@@ -113,6 +113,7 @@
 - [HopToDesk](https://gitlab.com/hoptodesk/hoptodesk) <img align="bottom" height="13" src="https://badgen.net/gitlab/stars/hoptodesk/hoptodesk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/gitlab/last-commit/hoptodesk/hoptodesk?style=flat&label=" /> - 免费的远程访问平台，用于连接和管理设备。
 - [workbuddy-switch](https://github.com/changexbc/workbuddy-switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/changexbc/workbuddy-switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/changexbc/workbuddy-switch?style=flat&label=" /> - 一键切换 WorkBuddy/CodeBuddy 登录账号的桌面应用，支持积分监控与自动签到。
 - [smabar](https://github.com/PleasePrompto/smabar) <img align="bottom" height="13" src="https://badgen.net/github/stars/PleasePrompto/smabar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/PleasePrompto/smabar?style=flat&label=" /> - 屏幕边缘的应用停靠栏，可固定应用、文件与网站，并支持插件扩展。
+- [Markview](https://github.com/szdytom/markview) <img align="bottom" height="13" src="https://badgen.net/github/stars/szdytom/markview?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/szdytom/markview?style=flat&label=" /> - 快速的原生 Markdown 阅读器，具备出版级排版，无需浏览器或 WebView 即可渲染数学公式、代码与表格。
 
 ## 输入法
 
