@@ -150,6 +150,7 @@
 - [Wake](https://github.com/iAmCorey/Wake) <img align="bottom" height="13" src="https://badgen.net/github/stars/iAmCorey/Wake?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iAmCorey/Wake?style=flat&label=" /> - 用于整理和搜索编码 Agent 会话的原生 macOS 应用。
 - [Codex Quota Dot](https://github.com/Silvren/codex-quota-dot) <img align="bottom" height="13" src="https://badgen.net/github/stars/Silvren/codex-quota-dot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Silvren/codex-quota-dot?style=flat&label=" /> - 轻量的悬浮小组件，实时显示 Codex CLI/Desktop 的配额、限额与重置时间。
 - [OpenHuman](https://github.com/tinyhumansai/openhuman) <img align="bottom" height="13" src="https://badgen.net/github/stars/tinyhumansai/openhuman?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tinyhumansai/openhuman?style=flat&label=" /> - 开源的智能体运行框架，具备本地优先记忆、智能体编排与工作流能力。
+- [PI-Desktop](https://github.com/vastsa/PI-Desktop) <img align="bottom" height="13" src="https://badgen.net/github/stars/vastsa/PI-Desktop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vastsa/PI-Desktop?style=flat&label=" /> - 模块化、本地优先的桌面工作区，统一管理项目、智能体、模型与工作流。
 
 ## 贡献者
 
