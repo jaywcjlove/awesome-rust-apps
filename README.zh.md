@@ -124,6 +124,7 @@
 
 - [Gridvana](https://github.com/osdodo/gridvana) <img align="bottom" height="13" src="https://badgen.net/github/stars/osdodo/gridvana?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/osdodo/gridvana?style=flat&label=" /> - 支持人机协同创作的像素画与动画编辑器。
 - [Kiri](https://github.com/yuxino/kiri) <img align="bottom" height="13" src="https://badgen.net/github/stars/yuxino/kiri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yuxino/kiri?style=flat&label=" /> - 跨平台截图、标注、OCR 与区域录制工具。
+- [PixelSlim](https://github.com/zeospec/PixelSlim) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeospec/PixelSlim?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zeospec/PixelSlim?style=flat&label=" /> - 轻量的 macOS 批量图片压缩与格式转换工具。
 
 ## 视频与音频
 

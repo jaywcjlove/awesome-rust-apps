@@ -125,6 +125,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [Gridvana](https://github.com/osdodo/gridvana) <img align="bottom" height="13" src="https://badgen.net/github/stars/osdodo/gridvana?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/osdodo/gridvana?style=flat&label=" /> - Pixel art and animation editor for human-AI collaboration.
 - [Kiri](https://github.com/yuxino/kiri) <img align="bottom" height="13" src="https://badgen.net/github/stars/yuxino/kiri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yuxino/kiri?style=flat&label=" /> - A cross-platform tool for screenshots, annotation, OCR, and region recording.
+- [PixelSlim](https://github.com/zeospec/PixelSlim) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeospec/PixelSlim?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zeospec/PixelSlim?style=flat&label=" /> - A lightweight macOS batch image optimizer and format converter.
 
 ## Video & Audio
 
