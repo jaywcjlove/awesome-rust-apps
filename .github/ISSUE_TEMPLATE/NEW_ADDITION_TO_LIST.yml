@@ -10,7 +10,7 @@ body:
       label: 🪩 Provide a link to the proposed addition
       description: Place link here.
       placeholder: | 
-        https://github.com/jaywcjlove/quick-rss
+        https://github.com/jaywcjlove/awesome-rust-apps
     validations:
       required: true
       
