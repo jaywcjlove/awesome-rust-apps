@@ -136,6 +136,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Soufflé](https://github.com/damione1/souffle) <img align="bottom" height="13" src="https://badgen.net/github/stars/damione1/souffle?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/damione1/souffle?style=flat&label=" /> - A local dictation and meeting transcription tool with speaker diarization and AI summaries.
 - [mimi](https://github.com/yuxino/mimi) - Real-time system-audio subtitles and translation for videos, meetings, and games.
 - [Fastpotify](https://github.com/crmne/fastpotify) <img align="bottom" height="13" src="https://badgen.net/github/stars/crmne/fastpotify?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/crmne/fastpotify?style=flat&label=" /> - A cross-platform Spotify client.
+- [EKO](https://github.com/reactivepixels/eko) <img align="bottom" height="13" src="https://badgen.net/github/stars/reactivepixels/eko?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/reactivepixels/eko?style=flat&label=" /> - A native macOS client for Navidrome, Subsonic, and local music files.
 
 ## AI & Machine Learning
 

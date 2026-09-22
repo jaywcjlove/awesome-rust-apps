@@ -135,6 +135,7 @@
 - [Soufflé](https://github.com/damione1/souffle) <img align="bottom" height="13" src="https://badgen.net/github/stars/damione1/souffle?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/damione1/souffle?style=flat&label=" /> - 本地听写与会议转录工具，支持说话人分离和 AI 摘要。
 - [mimi](https://github.com/yuxino/mimi) - 支持 macOS 和 Windows 的系统音频实时字幕与翻译工具，适用于视频、会议和游戏。
 - [Fastpotify](https://github.com/crmne/fastpotify) <img align="bottom" height="13" src="https://badgen.net/github/stars/crmne/fastpotify?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/crmne/fastpotify?style=flat&label=" /> - 跨平台 Spotify 客户端。
+- [EKO](https://github.com/reactivepixels/eko) <img align="bottom" height="13" src="https://badgen.net/github/stars/reactivepixels/eko?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/reactivepixels/eko?style=flat&label=" /> - 原生 macOS 音乐客户端，支持 Navidrome/Subsonic 与本地音乐文件。
 
 ## AI 与机器学习
 
