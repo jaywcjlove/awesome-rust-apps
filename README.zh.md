@@ -137,6 +137,7 @@
 - [mimi](https://github.com/yuxino/mimi) - 支持 macOS 和 Windows 的系统音频实时字幕与翻译工具，适用于视频、会议和游戏。
 - [Fastpotify](https://github.com/crmne/fastpotify) <img align="bottom" height="13" src="https://badgen.net/github/stars/crmne/fastpotify?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/crmne/fastpotify?style=flat&label=" /> - 跨平台 Spotify 客户端。
 - [EKO](https://github.com/reactivepixels/eko) <img align="bottom" height="13" src="https://badgen.net/github/stars/reactivepixels/eko?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/reactivepixels/eko?style=flat&label=" /> - 原生 macOS 音乐客户端，支持 Navidrome/Subsonic 与本地音乐文件。
+- [VocalCode Community](https://github.com/wudaming00/vocalcode-community) <img align="bottom" height="13" src="https://badgen.net/github/stars/wudaming00/vocalcode-community?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wudaming00/vocalcode-community?style=flat&label=" /> - 本地优先的听写与会议记录工具，支持 Windows 和 macOS。
 
 ## AI 与机器学习
 

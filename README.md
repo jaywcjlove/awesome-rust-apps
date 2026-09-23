@@ -138,6 +138,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [mimi](https://github.com/yuxino/mimi) - Real-time system-audio subtitles and translation for videos, meetings, and games.
 - [Fastpotify](https://github.com/crmne/fastpotify) <img align="bottom" height="13" src="https://badgen.net/github/stars/crmne/fastpotify?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/crmne/fastpotify?style=flat&label=" /> - A cross-platform Spotify client.
 - [EKO](https://github.com/reactivepixels/eko) <img align="bottom" height="13" src="https://badgen.net/github/stars/reactivepixels/eko?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/reactivepixels/eko?style=flat&label=" /> - A native macOS client for Navidrome, Subsonic, and local music files.
+- [VocalCode Community](https://github.com/wudaming00/vocalcode-community) <img align="bottom" height="13" src="https://badgen.net/github/stars/wudaming00/vocalcode-community?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wudaming00/vocalcode-community?style=flat&label=" /> - A local-first dictation and meeting notes tool for Windows and macOS.
 
 ## AI & Machine Learning
 
