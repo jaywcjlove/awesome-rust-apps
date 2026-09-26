@@ -166,6 +166,7 @@
 - [Screenpipe](https://github.com/screenpipe/screenpipe) <img align="bottom" height="13" src="https://badgen.net/github/stars/screenpipe/screenpipe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/screenpipe/screenpipe?style=flat&label=" /> - 本地持续录制屏幕，并为 AI 智能体提供工作上下文。
 - [PinkCode](https://github.com/3xian/PinkCode) <img align="bottom" height="13" src="https://badgen.net/github/stars/3xian/PinkCode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/3xian/PinkCode?style=flat&label=" /> - Grok Build 的桌面图形客户端，可视化任务进度、积分与 token 用量。
 - [Runner](https://github.com/yicheng47/runner) <img align="bottom" height="13" src="https://badgen.net/github/stars/yicheng47/runner?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yicheng47/runner?style=flat&label=" /> - 原生终端，用于并行编排 Claude Code、Codex 等编程智能体。
+- [CodeBurn](https://github.com/getagentseal/codeburn) <img align="bottom" height="13" src="https://badgen.net/github/stars/getagentseal/codeburn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getagentseal/codeburn?style=flat&label=" /> - 本地工具，跨 37 种 AI 编码工具统计 token 用量与成本。
 
 ## 贡献者
 
