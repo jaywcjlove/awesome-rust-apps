@@ -165,6 +165,7 @@
 - [PI-Desktop](https://github.com/vastsa/PI-Desktop) <img align="bottom" height="13" src="https://badgen.net/github/stars/vastsa/PI-Desktop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vastsa/PI-Desktop?style=flat&label=" /> - 模块化、本地优先的桌面工作区，统一管理项目、智能体、模型与工作流。
 - [Screenpipe](https://github.com/screenpipe/screenpipe) <img align="bottom" height="13" src="https://badgen.net/github/stars/screenpipe/screenpipe?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/screenpipe/screenpipe?style=flat&label=" /> - 本地持续录制屏幕，并为 AI 智能体提供工作上下文。
 - [PinkCode](https://github.com/3xian/PinkCode) <img align="bottom" height="13" src="https://badgen.net/github/stars/3xian/PinkCode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/3xian/PinkCode?style=flat&label=" /> - Grok Build 的桌面图形客户端，可视化任务进度、积分与 token 用量。
+- [Runner](https://github.com/yicheng47/runner) <img align="bottom" height="13" src="https://badgen.net/github/stars/yicheng47/runner?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yicheng47/runner?style=flat&label=" /> - 原生终端，用于并行编排 Claude Code、Codex 等编程智能体。
 
 ## 贡献者
 
