@@ -148,6 +148,7 @@
 - [Fastpotify](https://github.com/crmne/fastpotify) <img align="bottom" height="13" src="https://badgen.net/github/stars/crmne/fastpotify?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/crmne/fastpotify?style=flat&label=" /> - 跨平台 Spotify 客户端。
 - [EKO](https://github.com/reactivepixels/eko) <img align="bottom" height="13" src="https://badgen.net/github/stars/reactivepixels/eko?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/reactivepixels/eko?style=flat&label=" /> - 原生 macOS 音乐客户端，支持 Navidrome/Subsonic 与本地音乐文件。
 - [VocalCode Community](https://github.com/wudaming00/vocalcode-community) <img align="bottom" height="13" src="https://badgen.net/github/stars/wudaming00/vocalcode-community?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wudaming00/vocalcode-community?style=flat&label=" /> - 本地优先的听写与会议记录工具，支持 Windows 和 macOS。
+- [Frame Player](https://github.com/risenxxx/frame-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/risenxxx/frame-player?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/risenxxx/frame-player?style=flat&label=" /> - 视频播放器，支持本地文件、链接与种子播放，可投屏与同步观看。
 
 ## AI 与机器学习
 
