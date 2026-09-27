@@ -177,6 +177,7 @@
 - [Runner](https://github.com/yicheng47/runner) <img align="bottom" height="13" src="https://badgen.net/github/stars/yicheng47/runner?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yicheng47/runner?style=flat&label=" /> - 原生终端，用于并行编排 Claude Code、Codex 等编程智能体。
 - [CodeBurn](https://github.com/getagentseal/codeburn) <img align="bottom" height="13" src="https://badgen.net/github/stars/getagentseal/codeburn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getagentseal/codeburn?style=flat&label=" /> - 本地工具，跨 37 种 AI 编码工具统计 token 用量与成本。
 - [Binders](https://github.com/binders-io/app) <img align="bottom" height="13" src="https://badgen.net/github/stars/binders-io/app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/binders-io/app?style=flat&label=" /> - Mac 应用，将语音、会议与文字转为笔记和可问答的本地记忆库。
+- [Buzz](https://github.com/block/buzz) <img align="bottom" height="13" src="https://badgen.net/github/stars/block/buzz?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/block/buzz?style=flat&label=" /> - 人与智能体共建的工作区，数据中继由你掌控。
 
 ## 贡献者
 
