@@ -172,6 +172,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [PinkCode](https://github.com/3xian/PinkCode) <img align="bottom" height="13" src="https://badgen.net/github/stars/3xian/PinkCode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/3xian/PinkCode?style=flat&label=" /> - A desktop GUI for Grok Build that visualizes tasks, timelines, credits, and tokens.
 - [Runner](https://github.com/yicheng47/runner) <img align="bottom" height="13" src="https://badgen.net/github/stars/yicheng47/runner?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yicheng47/runner?style=flat&label=" /> - A native terminal for orchestrating coding agents like Claude Code and Codex in parallel.
 - [CodeBurn](https://github.com/getagentseal/codeburn) <img align="bottom" height="13" src="https://badgen.net/github/stars/getagentseal/codeburn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getagentseal/codeburn?style=flat&label=" /> - A local tool for tracking AI coding token usage and cost across 37 agents.
+- [Binders](https://github.com/binders-io/app) <img align="bottom" height="13" src="https://badgen.net/github/stars/binders-io/app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/binders-io/app?style=flat&label=" /> - A Mac app that turns speech, meetings, and writing into notes and a queryable on-device memory.
 
 
 ## Contributors
