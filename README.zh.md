@@ -189,6 +189,7 @@
 - [CodeBurn](https://github.com/getagentseal/codeburn) <img align="bottom" height="13" src="https://badgen.net/github/stars/getagentseal/codeburn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getagentseal/codeburn?style=flat&label=" /> - 本地工具，跨 37 种 AI 编码工具统计 token 用量与成本。
 - [Binders](https://github.com/binders-io/app) <img align="bottom" height="13" src="https://badgen.net/github/stars/binders-io/app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/binders-io/app?style=flat&label=" /> - Mac 应用，将语音、会议与文字转为笔记和可问答的本地记忆库。
 - [Buzz](https://github.com/block/buzz) <img align="bottom" height="13" src="https://badgen.net/github/stars/block/buzz?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/block/buzz?style=flat&label=" /> - 人与智能体共建的工作区，数据中继由你掌控。
+- [Garden Desk](https://github.com/Private-Garden-Labs/garden-desk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Private-Garden-Labs/garden-desk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Private-Garden-Labs/garden-desk?style=flat&label=" /> - 免费的本地文件桌面智能体，无需账号、无遥测、无云服务。
 
 ## 贡献者
 

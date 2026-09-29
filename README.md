@@ -190,6 +190,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [CodeBurn](https://github.com/getagentseal/codeburn) <img align="bottom" height="13" src="https://badgen.net/github/stars/getagentseal/codeburn?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/getagentseal/codeburn?style=flat&label=" /> - A local tool for tracking AI coding token usage and cost across 37 agents.
 - [Binders](https://github.com/binders-io/app) <img align="bottom" height="13" src="https://badgen.net/github/stars/binders-io/app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/binders-io/app?style=flat&label=" /> - A Mac app that turns speech, meetings, and writing into notes and a queryable on-device memory.
 - [Buzz](https://github.com/block/buzz) <img align="bottom" height="13" src="https://badgen.net/github/stars/block/buzz?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/block/buzz?style=flat&label=" /> - A workspace where humans and agents build together, on a relay you own.
+- [Garden Desk](https://github.com/Private-Garden-Labs/garden-desk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Private-Garden-Labs/garden-desk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Private-Garden-Labs/garden-desk?style=flat&label=" /> - A free desktop agent for local files, with no account, telemetry, or cloud service.
 
 
 ## Contributors
