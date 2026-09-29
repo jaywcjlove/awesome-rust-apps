@@ -161,6 +161,7 @@
 - [VocalCode Community](https://github.com/wudaming00/vocalcode-community) <img align="bottom" height="13" src="https://badgen.net/github/stars/wudaming00/vocalcode-community?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wudaming00/vocalcode-community?style=flat&label=" /> - 本地优先的听写与会议记录工具，支持 Windows 和 macOS。
 - [Frame Player](https://github.com/risenxxx/frame-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/risenxxx/frame-player?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/risenxxx/frame-player?style=flat&label=" /> - 视频播放器，支持本地文件、链接与种子播放，可投屏与同步观看。
 - [VoiceStudio](https://github.com/debpalash/VoiceStudio) <img align="bottom" height="13" src="https://badgen.net/github/stars/debpalash/VoiceStudio?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/debpalash/VoiceStudio?style=flat&label=" /> - 开源的语音克隆、视频配音、听写转录与有声书制作工具。
+- [Steno](https://github.com/Thesimpleex/steno) <img align="bottom" height="13" src="https://badgen.net/github/stars/Thesimpleex/steno?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Thesimpleex/steno?style=flat&label=" /> - 免费、本地的 macOS 听写工具，使用本机 Whisper 进行转录。
 
 ## AI 与机器学习
 
