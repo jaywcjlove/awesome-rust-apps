@@ -80,6 +80,7 @@
 ## 目录
 
 - [工具与实用程序](#工具与实用程序)
+- [数据库](#数据库)
 - [输入法](#输入法)
 - [图形与设计](#图形与设计)
 - [视频与音频](#视频与音频)
@@ -146,6 +147,10 @@
 - [Winlane](https://github.com/chenyukang/winlane) <img align="bottom" height="13" src="https://badgen.net/github/stars/chenyukang/winlane?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chenyukang/winlane?style=flat&label=" /> - macOS 菜单栏启动器，融合窗口切换与应用、剪贴板、片段搜索。
 - [Recall](https://github.com/cnazk/recall-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/cnazk/recall-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/cnazk/recall-mac?style=flat&label=" /> - 剪贴板管理器，支持语义搜索，并自动排除凭证类敏感内容。
 - [Markview](https://github.com/szdytom/markview) <img align="bottom" height="13" src="https://badgen.net/github/stars/szdytom/markview?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/szdytom/markview?style=flat&label=" /> - 快速的原生 Markdown 阅读器，具备出版级排版，无需浏览器或 WebView 即可渲染数学公式、代码与表格。
+
+## 数据库
+
+- [Tusk](https://github.com/alpcanaydin/tusk) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpcanaydin/tusk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alpcanaydin/tusk?style=flat&label=" /> - 快速、键盘驱动的跨平台数据库客户端，支持 macOS、Windows 和 Linux。
 
 ## 输入法
 
