@@ -4,16 +4,6 @@
   <br>
   <br>
 
-  <a href="https://apps.apple.com/app/apple-store/id6757860829?pt=80185800&ct=jay&mt=8">
-    <img alt="SubList" width="400" src="https://jaywcjlove.github.io/sponsor/SubList.jpg">
-  </a>
-  <br>
-  <a href="https://apps.apple.com/app/apple-store/id6757860829?pt=80185800&ct=jay&mt=8">
-    SubList - Bill Reminder & Renewal Alerts
-  </a>
-  <br><br>
-
-
   <a href="https://screensage.pro/">
     <img alt="ScreenSage Pro" width="400" src="https://jaywcjlove.github.io/sponsor/screensage.png">
   </a>
@@ -208,6 +198,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [AgentDeck](https://github.com/mantou132/AgentDeck) <img align="bottom" height="13" src="https://badgen.net/github/stars/mantou132/AgentDeck?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mantou132/AgentDeck?style=flat&label=" /> - A mobile and web ACP client to remotely control Claude Code, Codex, and similar coding agents.
 - [Kuzgun](https://github.com/alpcanaydin/kuzgun) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpcanaydin/kuzgun?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alpcanaydin/kuzgun?style=flat&label=" /> - A native macOS kanban board for tracking skills tickets and coding-agent sessions.
 - [CC Switch](https://github.com/farion1231/cc-switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/farion1231/cc-switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/farion1231/cc-switch?style=flat&label=" /> - A cross-platform desktop app for managing multiple AI coding assistants.
+- [AI Agent Launcher](https://github.com/XRSec/AI-Agent-Launcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/XRSec/AI-Agent-Launcher?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/XRSec/AI-Agent-Launcher?style=flat&label=" /> - A cross-platform desktop process manager for AI agents and local services.
 
 
 ## Contributors
