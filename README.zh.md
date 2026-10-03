@@ -206,6 +206,7 @@
 - [Garden Desk](https://github.com/Private-Garden-Labs/garden-desk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Private-Garden-Labs/garden-desk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Private-Garden-Labs/garden-desk?style=flat&label=" /> - 免费的本地文件桌面智能体，无需账号、无遥测、无云服务。
 - [AgentDeck](https://github.com/mantou132/AgentDeck) <img align="bottom" height="13" src="https://badgen.net/github/stars/mantou132/AgentDeck?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mantou132/AgentDeck?style=flat&label=" /> - 手机与网页端的 ACP 客户端，可远程操控 Claude Code、Codex 等编程智能体。
 - [Kuzgun](https://github.com/alpcanaydin/kuzgun) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpcanaydin/kuzgun?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alpcanaydin/kuzgun?style=flat&label=" /> - 原生 macOS 看板，用于跟踪 Skills 任务与编程智能体会话。
+- [CC Switch](https://github.com/farion1231/cc-switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/farion1231/cc-switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/farion1231/cc-switch?style=flat&label=" /> - 跨平台桌面应用，用于统一管理多种 AI 编程助手。
 
 ## 贡献者
 
