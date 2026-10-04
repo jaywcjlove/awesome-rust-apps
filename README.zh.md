@@ -143,6 +143,7 @@
 ## 数据库
 
 - [Tusk](https://github.com/alpcanaydin/tusk) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpcanaydin/tusk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alpcanaydin/tusk?style=flat&label=" /> - 快速、键盘驱动的跨平台数据库客户端，支持 macOS、Windows 和 Linux。
+- [Zedis](https://github.com/vicanso/zedis) <img align="bottom" height="13" src="https://badgen.net/github/stars/vicanso/zedis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vicanso/zedis?style=flat&label=" /> - 原生 Redis 图形客户端，便于浏览和管理大型数据库。
 
 ## 输入法
 

@@ -143,6 +143,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Database
 
 - [Tusk](https://github.com/alpcanaydin/tusk) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpcanaydin/tusk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alpcanaydin/tusk?style=flat&label=" /> - A fast, keyboard-driven database client for macOS, Windows, and Linux.
+- [Zedis](https://github.com/vicanso/zedis) <img align="bottom" height="13" src="https://badgen.net/github/stars/vicanso/zedis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vicanso/zedis?style=flat&label=" /> - A native Redis GUI for browsing and managing large databases.
 
 ## Input Methods
 
