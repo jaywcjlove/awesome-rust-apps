@@ -203,7 +203,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [AI Agent Launcher](https://github.com/XRSec/AI-Agent-Launcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/XRSec/AI-Agent-Launcher?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/XRSec/AI-Agent-Launcher?style=flat&label=" /> - A cross-platform desktop process manager for AI agents and local services.
 - [ThinkWatch Lite](https://github.com/ThinkWatchProject/ThinkWatch-Lite) <img align="bottom" height="13" src="https://badgen.net/github/stars/ThinkWatchProject/ThinkWatch-Lite?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ThinkWatchProject/ThinkWatch-Lite?style=flat&label=" /> - A local AI gateway for model routing, request auditing, key redaction, and tool-call filtering.
 - [Unterm](https://github.com/zhitongblog/unterm) <img align="bottom" height="13" src="https://badgen.net/github/stars/zhitongblog/unterm?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zhitongblog/unterm?style=flat&label=" /> - A cross-platform cockpit for running and managing terminal AI agents.
-- [Zeron](https://github.com/zeronsh/zeron) - A local control plane for managing coding agents, with optional multi-device sync.
+- [Zeron](https://github.com/zeronsh/zeron) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeronsh/zeron?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zeronsh/zeron?style=flat&label=" /> - A local control plane for managing coding agents, with optional multi-device sync.
 
 
 ## Contributors
