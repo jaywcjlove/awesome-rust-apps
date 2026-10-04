@@ -202,6 +202,7 @@
 - [AI Agent Launcher](https://github.com/XRSec/AI-Agent-Launcher) <img align="bottom" height="13" src="https://badgen.net/github/stars/XRSec/AI-Agent-Launcher?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/XRSec/AI-Agent-Launcher?style=flat&label=" /> - 跨平台桌面进程管理器，用于管理 AI 智能体与本地服务。
 - [ThinkWatch Lite](https://github.com/ThinkWatchProject/ThinkWatch-Lite) <img align="bottom" height="13" src="https://badgen.net/github/stars/ThinkWatchProject/ThinkWatch-Lite?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ThinkWatchProject/ThinkWatch-Lite?style=flat&label=" /> - 面向 Claude Code、Codex 等客户端的本地 AI 网关，支持模型路由、请求审计、密钥替换与危险工具调用拦截。
 - [Unterm](https://github.com/zhitongblog/unterm) <img align="bottom" height="13" src="https://badgen.net/github/stars/zhitongblog/unterm?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zhitongblog/unterm?style=flat&label=" /> - 跨平台终端 AI 智能体工作台，用于启动和管理智能体。
+- [Zeron](https://github.com/zeronsh/zeron) - 本地管理多种编程智能体的控制平台，支持多设备同步。
 
 ## 贡献者
 
