@@ -140,6 +140,7 @@
 - [Winlane](https://github.com/chenyukang/winlane) <img align="bottom" height="13" src="https://badgen.net/github/stars/chenyukang/winlane?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/chenyukang/winlane?style=flat&label=" /> - macOS 菜单栏启动器，融合窗口切换与应用、剪贴板、片段搜索。
 - [Recall](https://github.com/cnazk/recall-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/cnazk/recall-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/cnazk/recall-mac?style=flat&label=" /> - 剪贴板管理器，支持语义搜索，并自动排除凭证类敏感内容。
 - [Markview](https://github.com/szdytom/markview) <img align="bottom" height="13" src="https://badgen.net/github/stars/szdytom/markview?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/szdytom/markview?style=flat&label=" /> - 快速的原生 Markdown 阅读器，具备出版级排版，无需浏览器或 WebView 即可渲染数学公式、代码与表格。
+- [MetaClean](https://github.com/Moresyl/metaclean) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moresyl/metaclean?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moresyl/metaclean?style=flat&label=" /> - 本地文件元数据清理工具，分享前移除文件中的隐私信息。
 
 ## 数据库
 
