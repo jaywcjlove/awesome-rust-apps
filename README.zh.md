@@ -181,6 +181,7 @@
 
 ## AI 与机器学习
 
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) <img align="bottom" height="13" src="https://badgen.net/github/stars/louis030195/hyperconsciousness?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/louis030195/hyperconsciousness?style=flat&label=" /> - 开发者 Alpha 阶段的加密、仅追加式智能体记忆存储，提供 Rust CLI 和 MCP 服务器，通过限定范围且有时效的授权控制访问。
 - [Kitter](https://github.com/what1f/kitter) <img align="bottom" height="13" src="https://badgen.net/github/stars/what1f/kitter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/what1f/kitter?style=flat&label=" /> - 轻量的 AI Skill 管理工具。
 - [Metis](https://github.com/Wholiver/metis) <img align="bottom" height="13" src="https://badgen.net/github/stars/Wholiver/metis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Wholiver/metis?style=flat&label=" /> - 开源的 AI 编程 Agent 工具。
 - [hippoxOS](https://github.com/HippoxHQ/hippoxOS) - 以自然语言为核心交互方式的 AI 原生桌面操作系统。
