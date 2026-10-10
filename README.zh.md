@@ -81,6 +81,7 @@
 
 ## 工具与实用程序
 
+- [notey](https://github.com/susmitharajendran45/notey) <img align="bottom" height="13" src="https://badgen.net/github/stars/susmitharajendran45/notey?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/susmitharajendran45/notey?style=flat&label=" /> - 简洁温馨的桌面便签工具，采用富有触感的撕页式设计。
 - [RustFS](https://github.com/rustfs/rustfs) <img align="bottom" height="13" src="https://badgen.net/github/stars/rustfs/rustfs?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rustfs/rustfs?style=flat&label=" /> - 分布式 S3 兼容对象存储。
 - [Shuffle](https://github.com/WizenPainter/shuffle) <img align="bottom" height="13" src="https://badgen.net/github/stars/WizenPainter/shuffle?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/WizenPainter/shuffle?style=flat&label=" /> - GPU 加速的文件管理器，Finder 的替代品。
 - [Look](https://github.com/kunkka19xx/look) <img align="bottom" height="13" src="https://badgen.net/github/stars/kunkka19xx/look?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kunkka19xx/look?style=flat&label=" /> - 键盘优先的桌面启动器，支持离线搜索。
