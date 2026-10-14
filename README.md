@@ -205,6 +205,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## AI & Machine Learning
 
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) <img align="bottom" height="13" src="https://badgen.net/github/stars/louis030195/hyperconsciousness?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/louis030195/hyperconsciousness?style=flat&label=" /> - Developer-alpha encrypted, append-only agent memory with a Rust CLI and MCP server, using scoped, expiring grants.
 - [Kitter](https://github.com/what1f/kitter) <img align="bottom" height="13" src="https://badgen.net/github/stars/what1f/kitter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/what1f/kitter?style=flat&label=" /> - A lightweight AI skill management tool.
 - [littleguys](https://github.com/herval/littleguys) <img align="bottom" height="13" src="https://badgen.net/github/stars/herval/littleguys?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/herval/littleguys?style=flat&label=" /> - A small open-source Mac app for chatting with your AI agents, WhatsApp-style.
 - [Metis](https://github.com/Wholiver/metis) <img align="bottom" height="13" src="https://badgen.net/github/stars/Wholiver/metis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Wholiver/metis?style=flat&label=" /> - An open-source AI coding agent tool.
