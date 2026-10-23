@@ -177,6 +177,7 @@
 ## 通讯
 
 - [FinchGram](https://github.com/FinchGram/FinchGram) <img align="bottom" height="13" src="https://badgen.net/github/stars/FinchGram/FinchGram?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FinchGram/FinchGram?style=flat&label=" /> - 非官方开源的 Telegram macOS 桌面客户端。
+- [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) <img align="bottom" height="13" src="https://badgen.net/github/stars/Aster-Privacy/Aster-Mail?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Aster-Privacy/Aster-Mail?style=flat&label=" /> - 端到端加密的邮件客户端，支持桌面和网页，基于 Tauri 构建。
 
 ## 数据库
 
