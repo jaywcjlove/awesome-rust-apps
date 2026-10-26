@@ -213,6 +213,7 @@
 
 ## 阅读与研究
 
+- [Comic Commander](https://github.com/krocon/comic-commander-tauri) - 跨平台漫画浏览与阅读应用，支持 CBZ、CBR、CB7、CBT 和 PDF 文件。
 - [LightRead 轻阅](https://github.com/yzfly/LightRead) <img align="bottom" height="13" src="https://badgen.net/github/stars/yzfly/LightRead?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yzfly/LightRead?style=flat&label=" /> - 本地优先的电子书与论文阅读器，支持藏书管理、阅读进度和批注。
 
 ## 输入法

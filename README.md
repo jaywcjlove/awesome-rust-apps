@@ -213,6 +213,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Reading & Research
 
+- [Comic Commander](https://github.com/krocon/comic-commander-tauri) - A cross-platform comic browser and reader for CBZ, CBR, CB7, CBT, and PDF files.
 - [LightRead 轻阅](https://github.com/yzfly/LightRead) <img align="bottom" height="13" src="https://badgen.net/github/stars/yzfly/LightRead?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yzfly/LightRead?style=flat&label=" /> - A local-first ebook and paper reader with library management, reading progress, and annotations.
 
 ## Input Methods
