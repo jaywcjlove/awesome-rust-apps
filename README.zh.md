@@ -71,9 +71,11 @@
 ## 目录
 
 - [工具与实用程序](#工具与实用程序)
+- [通讯](#通讯)
 - [数据库](#数据库)
 - [财务](#财务)
 - [笔记与写作](#笔记与写作)
+- [办公](#办公)
 - [效率](#效率)
 - [阅读与研究](#阅读与研究)
 - [输入法](#输入法)
@@ -91,6 +93,7 @@
 - [Look](https://github.com/kunkka19xx/look) <img align="bottom" height="13" src="https://badgen.net/github/stars/kunkka19xx/look?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/kunkka19xx/look?style=flat&label=" /> - 键盘优先的桌面启动器，支持离线搜索。
 - [Git Agent](https://github.com/adoin/git-Agent) <img align="bottom" height="13" src="https://badgen.net/github/stars/adoin/git-Agent?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/adoin/git-Agent?style=flat&label=" /> - 跨平台原生 Git 客户端。
 - [GitScry](https://github.com/WodenJay/GitScry) <img align="bottom" height="13" src="https://badgen.net/github/stars/WodenJay/GitScry?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/WodenJay/GitScry?style=flat&label=" /> - 将本地 Git 历史变成可检索的代码库演进记忆。
+- [JET.Pilot](https://github.com/unxsist/jet-pilot) <img align="bottom" height="13" src="https://badgen.net/github/stars/unxsist/jet-pilot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/unxsist/jet-pilot?style=flat&label=" /> - 原生 Kubernetes 桌面客户端，集中管理集群与云账户。
 - [StoneSVN](https://github.com/firzen/StoneSVN) <img align="bottom" height="13" src="https://badgen.net/github/stars/firzen/StoneSVN?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/firzen/StoneSVN?style=flat&label=" /> - 跨平台 SVN 客户端，支持审阅变更与部分提交。
 - [Glim](https://github.com/NeoPanic/Glim) <img align="bottom" height="13" src="https://badgen.net/github/stars/NeoPanic/Glim?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/NeoPanic/Glim?style=flat&label=" /> - 开源多格式文件查看器，支持 Markdown、文档与数据预览及基础文本编辑。
 - [Diffity](https://github.com/nilbuild/diffity) <img align="bottom" height="13" src="https://badgen.net/github/stars/nilbuild/diffity?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nilbuild/diffity?style=flat&label=" /> - Mac 代码变更审查工具，GitHub 风格界面，联动 Claude Code。
@@ -108,6 +111,7 @@
 - [FluxDown](https://github.com/zerx-lab/FluxDown) <img align="bottom" height="13" src="https://badgen.net/github/stars/zerx-lab/FluxDown?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zerx-lab/FluxDown?style=flat&label=" /> - 支持 HTTP、BT、ED2K 和流媒体的下载工具。
 - [Friction](https://github.com/Shabfom/friction)<img align="bottom" height="13" src="https://badgen.net/github/stars/Shabfom/friction?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Shabfom/friction?style=flat&label=" /> - macOS 本地防火墙与 AI 智能体活动记录工具。
 - [Zephyr](https://github.com/Juwan-Hwang/Zephyr) <img align="bottom" height="13" src="https://badgen.net/github/stars/Juwan-Hwang/Zephyr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Juwan-Hwang/Zephyr?style=flat&label=" /> - 跨平台的 Mihomo（Clash Meta）桌面代理客户端。
+- [CapsJump](https://github.com/whysosuresh/capsjump) <img align="bottom" height="13" src="https://badgen.net/github/stars/whysosuresh/capsjump?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/whysosuresh/capsjump?style=flat&label=" /> - 用快捷键启动应用、切换窗口，并管理浏览器标签页。
 - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev) <img align="bottom" height="13" src="https://badgen.net/github/stars/clash-verge-rev/clash-verge-rev?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/clash-verge-rev/clash-verge-rev?style=flat&label=" /> - 跨平台的 Clash Meta 图形化客户端，支持 Windows、macOS 和 Linux。
 - [SparkleBIOS](https://github.com/reactivepixels/sparklebios) <img align="bottom" height="13" src="https://badgen.net/github/stars/reactivepixels/sparklebios?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/reactivepixels/sparklebios?style=flat&label=" /> - 为每个终端标签页加上趣味复古的 1995 年 PC BIOS 启动界面。
 - [Petal](https://github.com/henrydennis/petal) <img align="bottom" height="13" src="https://badgen.net/github/stars/henrydennis/petal?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/henrydennis/petal?style=flat&label=" /> - macOS 磁盘空间分析工具，使用旭日图实时展示磁盘占用。
@@ -172,9 +176,14 @@
 - [MetaClean](https://github.com/Moresyl/metaclean) <img align="bottom" height="13" src="https://badgen.net/github/stars/Moresyl/metaclean?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Moresyl/metaclean?style=flat&label=" /> - 本地文件元数据清理工具，分享前移除文件中的隐私信息。
 - [Zond](https://github.com/zond-rs/zond) <img align="bottom" height="13" src="https://badgen.net/github/stars/zond-rs/zond?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zond-rs/zond?style=flat&label=" /> - 网络扫描工具，用于发现主机、端口和服务，并识别发行版已修复的漏洞。
 
+## 通讯
+
+- [FinchGram](https://github.com/FinchGram/FinchGram) <img align="bottom" height="13" src="https://badgen.net/github/stars/FinchGram/FinchGram?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FinchGram/FinchGram?style=flat&label=" /> - 非官方开源的 Telegram macOS 桌面客户端。
+
 ## 数据库
 
 - [dbdiff](https://github.com/rekurt/dbdiff) <img align="bottom" height="13" src="https://badgen.net/github/stars/rekurt/dbdiff?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rekurt/dbdiff?style=flat&label=" /> - 数据库结构对比工具，可检测偏差并生成可审阅的迁移 SQL。
+- [DBine](https://github.com/addlayer-io/dbine) <img align="bottom" height="13" src="https://badgen.net/github/stars/addlayer-io/dbine?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/addlayer-io/dbine?style=flat&label=" /> - 支持 SQL、NoSQL 数据库及云服务的桌面管理工具。
 - [Tabularis](https://github.com/TabularisDB/tabularis) <img align="bottom" height="13" src="https://badgen.net/github/stars/TabularisDB/tabularis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TabularisDB/tabularis?style=flat&label=" /> - 开源桌面 SQL 工作区，内置多种数据库驱动与插件。
 - [Tusk](https://github.com/alpcanaydin/tusk) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpcanaydin/tusk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alpcanaydin/tusk?style=flat&label=" /> - 快速、键盘驱动的跨平台数据库客户端，支持 macOS、Windows 和 Linux。
 - [Zedis](https://github.com/vicanso/zedis) <img align="bottom" height="13" src="https://badgen.net/github/stars/vicanso/zedis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vicanso/zedis?style=flat&label=" /> - 原生 Redis 图形客户端，便于浏览和管理大型数据库。
@@ -190,15 +199,22 @@
 - [Ashlr MD](https://github.com/ashlrai/ashlr-md) <img align="bottom" height="13" src="https://badgen.net/github/stars/ashlrai/ashlr-md?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ashlrai/ashlr-md?style=flat&label=" /> - AI 原生的 Markdown 应用，支持 macOS、Windows 和 Linux，内置免费本地 AI。
 - [Backtickle](https://github.com/masud90/backtickle) <img align="bottom" height="13" src="https://badgen.net/github/stars/masud90/backtickle?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/masud90/backtickle?style=flat&label=" /> - 支持 macOS、Windows 和 Linux 的隐私友好型 Markdown 阅读与写作应用。
 - [Koru](https://github.com/koruworks/mono) <img align="bottom" height="13" src="https://badgen.net/github/stars/koruworks/mono?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/koruworks/mono?style=flat&label=" /> - 本地优先的开源工作区，用于管理笔记、文档和文件，支持 macOS 和 Windows。
+- [MDViewer](https://github.com/mmmikael/mdviewer) <img align="bottom" height="13" src="https://badgen.net/github/stars/mmmikael/mdviewer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mmmikael/mdviewer?style=flat&label=" /> - macOS 原生 Markdown 查看器，支持实时重载、AI 摘要、快速预览、图表和数学公式。
 - [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - 本地优先的研究写作工作区，支持 LaTeX、Typst 和 Markdown，可选集成 AI 工具。
 - [Textus](https://github.com/CatVinci-Studio/Textus) <img align="bottom" height="13" src="https://badgen.net/github/stars/CatVinci-Studio/Textus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CatVinci-Studio/Textus?style=flat&label=" /> - 新一代 AI 辅助 Markdown 编辑器。
+
+## 办公
+
+- [GlideDeck](https://github.com/nirlotan/GlideDeck) <img align="bottom" height="13" src="https://badgen.net/github/stars/nirlotan/GlideDeck?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nirlotan/GlideDeck?style=flat&label=" /> - 支持 PowerPoint 文件的无限画布演示应用，可缩放浏览内容。
 
 ## 效率
 
 - [ClickPulse](https://github.com/endNone/ClickPulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/endNone/ClickPulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/endNone/ClickPulse?style=flat&label=" /> - 记录键盘和鼠标活动并可视化每日生产力的效率追踪工具。
+- [Deskfolk](https://github.com/Blackman99/deskfolk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Blackman99/deskfolk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Blackman99/deskfolk?style=flat&label=" /> - 可将多步骤任务交给 AI 助手处理并审阅结果的桌面工作区。
 
 ## 阅读与研究
 
+- [Comic Commander](https://github.com/krocon/comic-commander-tauri) <img align="bottom" height="13" src="https://badgen.net/github/stars/krocon/comic-commander-tauri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/krocon/comic-commander-tauri?style=flat&label=" /> - 跨平台漫画浏览与阅读应用，支持 CBZ、CBR、CB7、CBT 和 PDF 文件。
 - [LightRead 轻阅](https://github.com/yzfly/LightRead) <img align="bottom" height="13" src="https://badgen.net/github/stars/yzfly/LightRead?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yzfly/LightRead?style=flat&label=" /> - 本地优先的电子书与论文阅读器，支持藏书管理、阅读进度和批注。
 
 ## 输入法
@@ -236,6 +252,7 @@
 
 ## AI 与机器学习
 
+- [AI Canvas](https://github.com/Tenney95/AI-Canvas-tauri) <img align="bottom" height="13" src="https://badgen.net/github/stars/Tenney95/AI-Canvas-tauri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Tenney95/AI-Canvas-tauri?style=flat&label=" /> - 用于创作 AI 媒体并管理项目素材的节点式画布应用。
 - [AI Switch](https://github.com/burakdede/aisw-desktop) <img align="bottom" height="13" src="https://badgen.net/github/stars/burakdede/aisw-desktop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/burakdede/aisw-desktop?style=flat&label=" /> - 本地优先的桌面应用，用于切换不同的 AI 编程智能体。
 - [AntiGravity Switch](https://github.com/anglee0323/agy-switch) <img align="bottom" height="13" src="https://badgen.net/github/stars/anglee0323/agy-switch?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/anglee0323/agy-switch?style=flat&label=" /> - 用于管理 Antigravity 账号和配额的桌面与命令行工具。
 - [Kitter](https://github.com/what1f/kitter) <img align="bottom" height="13" src="https://badgen.net/github/stars/what1f/kitter?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/what1f/kitter?style=flat&label=" /> - 轻量的 AI Skill 管理工具。
@@ -244,9 +261,10 @@
 - [Metis](https://github.com/Wholiver/metis) <img align="bottom" height="13" src="https://badgen.net/github/stars/Wholiver/metis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Wholiver/metis?style=flat&label=" /> - 开源的 AI 编程 Agent 工具。
 - [Mimir](https://github.com/currentbits/mimir) <img align="bottom" height="13" src="https://badgen.net/github/stars/currentbits/mimir?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/currentbits/mimir?style=flat&label=" /> - 免费应用，可通过 Telegram、Slack、Discord、Signal 或桌面端运行你的 AI 助手。
 - [Notchi](https://github.com/cyrus-cai/notchi) <img align="bottom" height="13" src="https://badgen.net/github/stars/cyrus-cai/notchi?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/cyrus-cai/notchi?style=flat&label=" /> - 驻留于 Mac 刘海区域的个人 AI 助手，支持笔记、提醒、问答与编程任务委派。
-- [hippoxOS](https://github.com/HippoxHQ/hippoxOS) - 以自然语言为核心交互方式的 AI 原生桌面操作系统。
+- [hippoxOS](https://github.com/HippoxHQ/hippoxOS) <img align="bottom" height="13" src="https://badgen.net/github/stars/HippoxHQ/hippoxOS?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HippoxHQ/hippoxOS?style=flat&label=" /> - 以自然语言为核心交互方式的 AI 原生桌面操作系统。
 - [Claude Buddy](https://github.com/norbertsuski/claude-buddy) <img align="bottom" height="13" src="https://badgen.net/github/stars/norbertsuski/claude-buddy?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/norbertsuski/claude-buddy?style=flat&label=" /> - macOS 悬浮小组件，用于监控多个 Claude Code 会话状态。
 - [Claudebar](https://github.com/gautham-v/claudebar) <img align="bottom" height="13" src="https://badgen.net/github/stars/gautham-v/claudebar?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gautham-v/claudebar?style=flat&label=" /> - 用于查看 Claude 使用限额的跨平台应用。
+- [Codealong](https://github.com/codealong/codealong) <img align="bottom" height="13" src="https://badgen.net/github/stars/codealong/codealong?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/codealong/codealong?style=flat&label=" /> - 在同一窗口中运行和管理多个编程智能体的桌面应用。
 - [OrbCue](https://github.com/QZYH123/OrbCue) <img align="bottom" height="13" src="https://badgen.net/github/stars/QZYH123/OrbCue?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/QZYH123/OrbCue?style=flat&label=" /> - Windows 桌面悬浮小球，提示 AI 编程智能体何时需要你介入。
 - [Wenlan](https://github.com/7xuanlu/wenlan) <img align="bottom" height="13" src="https://badgen.net/github/stars/7xuanlu/wenlan?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/7xuanlu/wenlan?style=flat&label=" /> - 面向编程智能体的开源、本地优先、来源可追溯的 AI 知识库。
 - [Higgs](https://github.com/panbanda/higgs) <img align="bottom" height="13" src="https://badgen.net/github/stars/panbanda/higgs?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/panbanda/higgs?style=flat&label=" /> - 本地 MLX 模型服务，支持兼容 API 和多提供商路由。
@@ -257,6 +275,7 @@
 - [Vibe Observer](https://github.com/AIchovy/vibe-observer) <img align="bottom" height="13" src="https://badgen.net/github/stars/AIchovy/vibe-observer?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/AIchovy/vibe-observer?style=flat&label=" /> - 用于分析 Claude Code token 使用量、成本和会话开销的 macOS 应用。
 - [Vagus](https://github.com/versot/Vagus) <img align="bottom" height="13" src="https://badgen.net/github/stars/versot/Vagus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/versot/Vagus?style=flat&label=" /> - 本地优先的 AI 编程智能体工作区，集中管理项目、对话、运行状态与代码变更。
 - [Wake](https://github.com/iAmCorey/Wake) <img align="bottom" height="13" src="https://badgen.net/github/stars/iAmCorey/Wake?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/iAmCorey/Wake?style=flat&label=" /> - 用于整理和搜索编码 Agent 会话的原生 macOS 应用。
+- [Waldo](https://github.com/justusewaldo/waldo) <img align="bottom" height="13" src="https://badgen.net/github/stars/justusewaldo/waldo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/justusewaldo/waldo?style=flat&label=" /> - 通过 MCP 让 AI 智能体操作 Mac 应用，并在敏感操作前请求确认。
 - [Codex Quota Dot](https://github.com/Silvren/codex-quota-dot) <img align="bottom" height="13" src="https://badgen.net/github/stars/Silvren/codex-quota-dot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Silvren/codex-quota-dot?style=flat&label=" /> - 轻量的悬浮小组件，实时显示 Codex CLI/Desktop 的配额、限额与重置时间。
 - [OpenHuman](https://github.com/tinyhumansai/openhuman) <img align="bottom" height="13" src="https://badgen.net/github/stars/tinyhumansai/openhuman?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tinyhumansai/openhuman?style=flat&label=" /> - 开源的智能体运行框架，具备本地优先记忆、智能体编排与工作流能力。
 - [PI-Desktop](https://github.com/vastsa/PI-Desktop) <img align="bottom" height="13" src="https://badgen.net/github/stars/vastsa/PI-Desktop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vastsa/PI-Desktop?style=flat&label=" /> - 模块化、本地优先的桌面工作区，统一管理项目、智能体、模型与工作流。
