@@ -75,6 +75,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Database](#database)
 - [Finance](#finance)
 - [Notes & Writing](#notes--writing)
+- [Office](#office)
 - [Productivity](#productivity)
 - [Reading & Research](#reading--research)
 - [Input Methods](#input-methods)
@@ -201,11 +202,14 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - Local-first research writing workspace for LaTeX, Typst, and Markdown with optional AI tools.
 - [Textus](https://github.com/CatVinci-Studio/Textus) <img align="bottom" height="13" src="https://badgen.net/github/stars/CatVinci-Studio/Textus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CatVinci-Studio/Textus?style=flat&label=" /> - An AI-assisted next-generation Markdown editor.
 
+## Office
+
+- [GlideDeck](https://github.com/nirlotan/GlideDeck) <img align="bottom" height="13" src="https://badgen.net/github/stars/nirlotan/GlideDeck?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nirlotan/GlideDeck?style=flat&label=" /> - An app for zoomable, infinite-canvas presentations with PowerPoint support.
+
 ## Productivity
 
 - [ClickPulse](https://github.com/endNone/ClickPulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/endNone/ClickPulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/endNone/ClickPulse?style=flat&label=" /> - A productivity tracker that visualizes daily keyboard and mouse activity.
 - [Deskfolk](https://github.com/Blackman99/deskfolk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Blackman99/deskfolk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Blackman99/deskfolk?style=flat&label=" /> - A desktop workspace for handing off multi-step tasks to AI bots and reviewing their work.
-- [GlideDeck](https://github.com/nirlotan/GlideDeck) <img align="bottom" height="13" src="https://badgen.net/github/stars/nirlotan/GlideDeck?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nirlotan/GlideDeck?style=flat&label=" /> - A presentation app for building zoomable talks on an infinite canvas.
 
 ## Reading & Research
 

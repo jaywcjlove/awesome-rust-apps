@@ -75,6 +75,7 @@
 - [数据库](#数据库)
 - [财务](#财务)
 - [笔记与写作](#笔记与写作)
+- [办公](#办公)
 - [效率](#效率)
 - [阅读与研究](#阅读与研究)
 - [输入法](#输入法)
@@ -201,11 +202,14 @@
 - [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - 本地优先的研究写作工作区，支持 LaTeX、Typst 和 Markdown，可选集成 AI 工具。
 - [Textus](https://github.com/CatVinci-Studio/Textus) <img align="bottom" height="13" src="https://badgen.net/github/stars/CatVinci-Studio/Textus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CatVinci-Studio/Textus?style=flat&label=" /> - 新一代 AI 辅助 Markdown 编辑器。
 
+## 办公
+
+- [GlideDeck](https://github.com/nirlotan/GlideDeck) <img align="bottom" height="13" src="https://badgen.net/github/stars/nirlotan/GlideDeck?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nirlotan/GlideDeck?style=flat&label=" /> - 支持 PowerPoint 文件的无限画布演示应用，可缩放浏览内容。
+
 ## 效率
 
 - [ClickPulse](https://github.com/endNone/ClickPulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/endNone/ClickPulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/endNone/ClickPulse?style=flat&label=" /> - 记录键盘和鼠标活动并可视化每日生产力的效率追踪工具。
 - [Deskfolk](https://github.com/Blackman99/deskfolk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Blackman99/deskfolk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Blackman99/deskfolk?style=flat&label=" /> - 可将多步骤任务交给 AI 助手处理并审阅结果的桌面工作区。
-- [GlideDeck](https://github.com/nirlotan/GlideDeck) <img align="bottom" height="13" src="https://badgen.net/github/stars/nirlotan/GlideDeck?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/nirlotan/GlideDeck?style=flat&label=" /> - 在无限画布上制作缩放式演示文稿的应用。
 
 ## 阅读与研究
 
