@@ -230,6 +230,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Photon](https://github.com/piedol/photon) <img align="bottom" height="13" src="https://badgen.net/github/stars/piedol/photon?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piedol/photon?style=flat&label=" /> - An offline screenshot, annotation, and screen recording tool for macOS and Windows.
 - [PixelSlim](https://github.com/zeospec/PixelSlim) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeospec/PixelSlim?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zeospec/PixelSlim?style=flat&label=" /> - A lightweight macOS batch image optimizer and format converter.
 - [RAWmakase](https://github.com/pch/rawmakase) <img align="bottom" height="13" src="https://badgen.net/github/stars/pch/rawmakase?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pch/rawmakase?style=flat&label=" /> - A fast, non-destructive RAW photo developer with Lightroom-style controls.
+- [Shotnix](https://github.com/OMARVII/Shotnix) <img align="bottom" height="13" src="https://badgen.net/github/stars/OMARVII/Shotnix?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OMARVII/Shotnix?style=flat&label=" /> - A native Mac app for screenshots, screen recordings, and video editing, with all captures kept local.
 
 ## Video & Audio
 

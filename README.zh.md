@@ -230,6 +230,7 @@
 - [Photon](https://github.com/piedol/photon) <img align="bottom" height="13" src="https://badgen.net/github/stars/piedol/photon?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/piedol/photon?style=flat&label=" /> - 支持 macOS 和 Windows 的离线截图、标注与屏幕录制工具。
 - [PixelSlim](https://github.com/zeospec/PixelSlim) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeospec/PixelSlim?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zeospec/PixelSlim?style=flat&label=" /> - 轻量的 macOS 批量图片压缩与格式转换工具。
 - [RAWmakase](https://github.com/pch/rawmakase) <img align="bottom" height="13" src="https://badgen.net/github/stars/pch/rawmakase?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pch/rawmakase?style=flat&label=" /> - 快速且无损的 RAW 照片处理工具，提供类 Lightroom 的调色控件。
+- [Shotnix](https://github.com/OMARVII/Shotnix) <img align="bottom" height="13" src="https://badgen.net/github/stars/OMARVII/Shotnix?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OMARVII/Shotnix?style=flat&label=" /> - 原生 Mac 应用，支持截图、屏幕录制与视频编辑，所有内容均保存在本地。
 
 ## 视频与音频
 
