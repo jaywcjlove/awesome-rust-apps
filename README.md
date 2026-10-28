@@ -220,6 +220,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [Comic Commander](https://github.com/krocon/comic-commander-tauri) <img align="bottom" height="13" src="https://badgen.net/github/stars/krocon/comic-commander-tauri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/krocon/comic-commander-tauri?style=flat&label=" /> - A cross-platform comic browser and reader for CBZ, CBR, CB7, CBT, and PDF files.
 - [LightRead 轻阅](https://github.com/yzfly/LightRead) <img align="bottom" height="13" src="https://badgen.net/github/stars/yzfly/LightRead?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yzfly/LightRead?style=flat&label=" /> - A local-first ebook and paper reader with library management, reading progress, and annotations.
+- [Papr](https://github.com/l0ng-ai/papr) <img align="bottom" height="13" src="https://badgen.net/github/stars/l0ng-ai/papr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/l0ng-ai/papr?style=flat&label=" /> - A native RSS reader with a CLI for AI agents to read, search, and triage feeds.
 
 ## Input Methods
 
