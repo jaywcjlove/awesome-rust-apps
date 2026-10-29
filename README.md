@@ -223,7 +223,6 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [ClickPulse](https://github.com/endNone/ClickPulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/endNone/ClickPulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/endNone/ClickPulse?style=flat&label=" /> - A productivity tracker that visualizes daily keyboard and mouse activity.
 - [Deskfolk](https://github.com/Blackman99/deskfolk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Blackman99/deskfolk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Blackman99/deskfolk?style=flat&label=" /> - A desktop workspace for handing off multi-step tasks to AI bots and reviewing their work.
-- [Kanzo](https://github.com/emanuele-em/kanzo) <img align="bottom" height="13" src="https://badgen.net/github/stars/emanuele-em/kanzo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/emanuele-em/kanzo?style=flat&label=" /> - A self-hosted kanban board and MCP server for humans and AI agents.
 
 ## Reading & Research
 

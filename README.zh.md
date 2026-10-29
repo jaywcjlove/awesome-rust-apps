@@ -223,7 +223,6 @@
 
 - [ClickPulse](https://github.com/endNone/ClickPulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/endNone/ClickPulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/endNone/ClickPulse?style=flat&label=" /> - 记录键盘和鼠标活动并可视化每日生产力的效率追踪工具。
 - [Deskfolk](https://github.com/Blackman99/deskfolk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Blackman99/deskfolk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Blackman99/deskfolk?style=flat&label=" /> - 可将多步骤任务交给 AI 助手处理并审阅结果的桌面工作区。
-- [Kanzo](https://github.com/emanuele-em/kanzo) <img align="bottom" height="13" src="https://badgen.net/github/stars/emanuele-em/kanzo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/emanuele-em/kanzo?style=flat&label=" /> - 自托管看板与 MCP 服务器，供用户和 AI 助手协同管理任务。
 
 ## 阅读与研究
 
