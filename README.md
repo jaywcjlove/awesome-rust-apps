@@ -88,6 +88,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Tools & Utilities
 
+- [Glim](https://github.com/NeoPanic/Glim) <img align="bottom" height="13" src="https://badgen.net/github/stars/NeoPanic/Glim?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/NeoPanic/Glim?style=flat&label=" /> - A free, open-source macOS file viewer for Markdown, PDFs, images, JSON, CSV and source code in one workspace.
 - [FlashTester](https://github.com/Dissimilis/FlashTester) <img align="bottom" height="13" src="https://badgen.net/github/stars/Dissimilis/FlashTester?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Dissimilis/FlashTester?style=flat&label=" /> - Tests USB drives, SD cards, and disks for fake capacity, data loss, and speed.
 - [notey](https://github.com/susmitharajendran45/notey) <img align="bottom" height="13" src="https://badgen.net/github/stars/susmitharajendran45/notey?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/susmitharajendran45/notey?style=flat&label=" /> - A cozy desktop scratchpad for quick notes with a tactile tear-off design.
 - [RustFS](https://github.com/rustfs/rustfs) <img align="bottom" height="13" src="https://badgen.net/github/stars/rustfs/rustfs?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rustfs/rustfs?style=flat&label=" /> - Distributed S3-compatible object storage.

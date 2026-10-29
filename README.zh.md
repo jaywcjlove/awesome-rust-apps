@@ -88,6 +88,7 @@
 
 ## 工具与实用程序
 
+- [Glim](https://github.com/NeoPanic/Glim) <img align="bottom" height="13" src="https://badgen.net/github/stars/NeoPanic/Glim?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/NeoPanic/Glim?style=flat&label=" /> - 免费开源的 macOS 多格式文件查看器，可在同一工作空间阅读 Markdown、PDF、图片、JSON、CSV 和源代码。
 - [FlashTester](https://github.com/Dissimilis/FlashTester) <img align="bottom" height="13" src="https://badgen.net/github/stars/Dissimilis/FlashTester?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Dissimilis/FlashTester?style=flat&label=" /> - 检测 U 盘、SD 卡和磁盘的虚假容量、数据丢失及读写速度。
 - [notey](https://github.com/susmitharajendran45/notey) <img align="bottom" height="13" src="https://badgen.net/github/stars/susmitharajendran45/notey?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/susmitharajendran45/notey?style=flat&label=" /> - 简洁温馨的桌面便签工具，采用富有触感的撕页式设计。
 - [RustFS](https://github.com/rustfs/rustfs) <img align="bottom" height="13" src="https://badgen.net/github/stars/rustfs/rustfs?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rustfs/rustfs?style=flat&label=" /> - 分布式 S3 兼容对象存储。
