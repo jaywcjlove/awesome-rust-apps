@@ -73,6 +73,7 @@
 
 - [工具与实用程序](#工具与实用程序)
 - [通讯](#通讯)
+- [云存储](#云存储)
 - [数据库](#数据库)
 - [财务](#财务)
 - [笔记与写作](#笔记与写作)
@@ -192,6 +193,10 @@
 
 - [FinchGram](https://github.com/FinchGram/FinchGram) <img align="bottom" height="13" src="https://badgen.net/github/stars/FinchGram/FinchGram?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FinchGram/FinchGram?style=flat&label=" /> - 非官方开源的 Telegram macOS 桌面客户端。
 - [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) <img align="bottom" height="13" src="https://badgen.net/github/stars/Aster-Privacy/Aster-Mail?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Aster-Privacy/Aster-Mail?style=flat&label=" /> - 端到端加密的邮件客户端，支持桌面和网页，基于 Tauri 构建。
+
+## 云存储
+
+- [BucketBridge](https://github.com/anupshaw50/BucketBridge) <img align="bottom" height="13" src="https://badgen.net/github/stars/anupshaw50/BucketBridge?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/anupshaw50/BucketBridge?style=flat&label=" /> - 用于管理 Amazon S3 及兼容存储的桌面客户端，支持传输与同步。
 
 ## 数据库
 

@@ -73,6 +73,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [Tools & Utilities](#tools--utilities)
 - [Communication](#communication)
+- [Cloud Storage](#cloud-storage)
 - [Database](#database)
 - [Finance](#finance)
 - [Notes & Writing](#notes--writing)
@@ -193,6 +194,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 - [FinchGram](https://github.com/FinchGram/FinchGram) <img align="bottom" height="13" src="https://badgen.net/github/stars/FinchGram/FinchGram?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FinchGram/FinchGram?style=flat&label=" /> - An unofficial, open-source Telegram desktop client for macOS.
 - [Aster Mail](https://github.com/Aster-Privacy/Aster-Mail) <img align="bottom" height="13" src="https://badgen.net/github/stars/Aster-Privacy/Aster-Mail?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Aster-Privacy/Aster-Mail?style=flat&label=" /> - End-to-end encrypted email client for desktop and web, built with Tauri.
+
+## Cloud Storage
+
+- [BucketBridge](https://github.com/anupshaw50/BucketBridge) <img align="bottom" height="13" src="https://badgen.net/github/stars/anupshaw50/BucketBridge?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/anupshaw50/BucketBridge?style=flat&label=" /> - Desktop client for managing Amazon S3 and compatible storage, transfers, and sync.
 
 ## Database
 
