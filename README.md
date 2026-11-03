@@ -75,6 +75,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Communication](#communication)
 - [Cloud Storage](#cloud-storage)
 - [Database](#database)
+- [Development](#development)
 - [Finance](#finance)
 - [Notes & Writing](#notes--writing)
 - [Office](#office)
@@ -206,6 +207,10 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Tabularis](https://github.com/TabularisDB/tabularis) <img align="bottom" height="13" src="https://badgen.net/github/stars/TabularisDB/tabularis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TabularisDB/tabularis?style=flat&label=" /> - Open-source desktop SQL workspace with built-in database drivers and plugins.
 - [Tusk](https://github.com/alpcanaydin/tusk) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpcanaydin/tusk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alpcanaydin/tusk?style=flat&label=" /> - A fast, keyboard-driven database client for macOS, Windows, and Linux.
 - [Zedis](https://github.com/vicanso/zedis) <img align="bottom" height="13" src="https://badgen.net/github/stars/vicanso/zedis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vicanso/zedis?style=flat&label=" /> - A native Redis GUI for browsing and managing large databases.
+
+## Development
+
+- [Wu](https://github.com/dstrml/wu) <img align="bottom" height="13" src="https://badgen.net/github/stars/dstrml/wu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dstrml/wu?style=flat&label=" /> - A lightweight native code editor with built-in AI agents.
 
 ## Finance
 

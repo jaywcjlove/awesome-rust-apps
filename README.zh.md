@@ -75,6 +75,7 @@
 - [通讯](#通讯)
 - [云存储](#云存储)
 - [数据库](#数据库)
+- [开发](#开发)
 - [财务](#财务)
 - [笔记与写作](#笔记与写作)
 - [办公](#办公)
@@ -205,6 +206,10 @@
 - [Tabularis](https://github.com/TabularisDB/tabularis) <img align="bottom" height="13" src="https://badgen.net/github/stars/TabularisDB/tabularis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TabularisDB/tabularis?style=flat&label=" /> - 开源桌面 SQL 工作区，内置多种数据库驱动与插件。
 - [Tusk](https://github.com/alpcanaydin/tusk) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpcanaydin/tusk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alpcanaydin/tusk?style=flat&label=" /> - 快速、键盘驱动的跨平台数据库客户端，支持 macOS、Windows 和 Linux。
 - [Zedis](https://github.com/vicanso/zedis) <img align="bottom" height="13" src="https://badgen.net/github/stars/vicanso/zedis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/vicanso/zedis?style=flat&label=" /> - 原生 Redis 图形客户端，便于浏览和管理大型数据库。
+
+## 开发
+
+- [Wu](https://github.com/dstrml/wu) <img align="bottom" height="13" src="https://badgen.net/github/stars/dstrml/wu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dstrml/wu?style=flat&label=" /> - 轻量级原生代码编辑器，内置 AI 智能体。
 
 ## 财务
 
