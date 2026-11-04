@@ -226,6 +226,7 @@
 - [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - 支持实时协作与 AI 智能体的 LaTeX、Typst 编辑器，适用于 macOS、Windows 和 Linux。
 - [Splat](https://github.com/sventmueller/splat) <img align="bottom" height="13" src="https://badgen.net/github/stars/sventmueller/splat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sventmueller/splat?style=flat&label=" /> - macOS 原生 Markdown 编辑器，支持直接编辑源码与实时预览。
 - [Textus](https://github.com/CatVinci-Studio/Textus) <img align="bottom" height="13" src="https://badgen.net/github/stars/CatVinci-Studio/Textus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CatVinci-Studio/Textus?style=flat&label=" /> - 新一代 AI 辅助 Markdown 编辑器。
+- [Tingo 听过](https://github.com/tancheng33/tingo) <img align="bottom" height="13" src="https://badgen.net/github/stars/tancheng33/tingo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tancheng33/tingo?style=flat&label=" /> - 本地录音与转写的中文会议纪要工具，结论可追溯至原话。
 
 ## 办公
 

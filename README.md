@@ -227,6 +227,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Oleafly](https://github.com/Oleafly/Oleafly) <img align="bottom" height="13" src="https://badgen.net/github/stars/Oleafly/Oleafly?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Oleafly/Oleafly?style=flat&label=" /> - A collaborative LaTeX and Typst editor with AI agents for macOS, Windows, and Linux.
 - [Splat](https://github.com/sventmueller/splat) <img align="bottom" height="13" src="https://badgen.net/github/stars/sventmueller/splat?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sventmueller/splat?style=flat&label=" /> - A native macOS Markdown editor with editable source and live preview.
 - [Textus](https://github.com/CatVinci-Studio/Textus) <img align="bottom" height="13" src="https://badgen.net/github/stars/CatVinci-Studio/Textus?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/CatVinci-Studio/Textus?style=flat&label=" /> - An AI-assisted next-generation Markdown editor.
+- [Tingo 听过](https://github.com/tancheng33/tingo) <img align="bottom" height="13" src="https://badgen.net/github/stars/tancheng33/tingo?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tancheng33/tingo?style=flat&label=" /> - A local Chinese meeting recorder and transcription app with source-linked minutes.
 
 ## Office
 
