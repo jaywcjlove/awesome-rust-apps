@@ -210,6 +210,7 @@
 
 ## 开发
 
+- [Kiri](https://github.com/libracoder/kiri) <img align="bottom" height="13" src="https://badgen.net/github/stars/libracoder/kiri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/libracoder/kiri?style=flat&label=" /> - 跨平台容器运行时，可运行 Docker 镜像并兼容 Docker CLI、Compose 和 buildx。
 - [Wu](https://github.com/dstrml/wu) <img align="bottom" height="13" src="https://badgen.net/github/stars/dstrml/wu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dstrml/wu?style=flat&label=" /> - 轻量级原生代码编辑器，内置 AI 智能体。
 
 ## 财务

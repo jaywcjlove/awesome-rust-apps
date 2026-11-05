@@ -211,6 +211,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Development
 
+- [Kiri](https://github.com/libracoder/kiri) <img align="bottom" height="13" src="https://badgen.net/github/stars/libracoder/kiri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/libracoder/kiri?style=flat&label=" /> - A cross-platform container runtime that runs Docker images with Docker CLI, Compose, and buildx.
 - [Wu](https://github.com/dstrml/wu) <img align="bottom" height="13" src="https://badgen.net/github/stars/dstrml/wu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dstrml/wu?style=flat&label=" /> - A lightweight native code editor with built-in AI agents.
 
 ## Finance
