@@ -200,6 +200,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 ## Cloud Storage
 
 - [BucketBridge](https://github.com/anupshaw50/BucketBridge) <img align="bottom" height="13" src="https://badgen.net/github/stars/anupshaw50/BucketBridge?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/anupshaw50/BucketBridge?style=flat&label=" /> - Desktop client for managing Amazon S3 and compatible storage, transfers, and sync.
+- [Skykeep](https://github.com/YashwanthKamireddi/Skykeep) <img align="bottom" height="13" src="https://badgen.net/github/stars/YashwanthKamireddi/Skykeep?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/YashwanthKamireddi/Skykeep?style=flat&label=" /> - iCloud Notes, Reminders, Calendar, Contacts, Drive and Photos as desktop apps for Linux and Windows.
 
 ## Database
 
