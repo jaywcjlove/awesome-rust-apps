@@ -239,7 +239,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Productivity
 
-- [ClickPulse](https://github.com/endNone/ClickPulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/endNone/ClickPulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/endNone/ClickPulse?style=flat&label=" /> - A productivity tracker that visualizes daily keyboard and mouse activity.
+- [ClickPulse](https://github.com/endNone/ClickPulse) <img align="bottom" height="13" src="https://badgen.net/github/stars/endNone/ClickPulse?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/endNone/ClickPulse?style=flat&label=" /> - An offline keyboard and mouse activity tracker with daily stats and live counts.
 - [Deskfolk](https://github.com/Blackman99/deskfolk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Blackman99/deskfolk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Blackman99/deskfolk?style=flat&label=" /> - A desktop workspace for handing off multi-step tasks to AI bots and reviewing their work.
 - [Stage Manager](https://github.com/eugene-tea/stage-manager) <img align="bottom" height="13" src="https://badgen.net/github/stars/eugene-tea/stage-manager?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/eugene-tea/stage-manager?style=flat&label=" /> - A macOS window manager inspired by Apple's Stage Manager, with optional workflow enhancements.
 
