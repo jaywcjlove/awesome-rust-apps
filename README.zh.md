@@ -218,6 +218,7 @@
 - [Kiri](https://github.com/libracoder/kiri) <img align="bottom" height="13" src="https://badgen.net/github/stars/libracoder/kiri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/libracoder/kiri?style=flat&label=" /> - 跨平台容器运行时，可运行 Docker 镜像并兼容 Docker CLI、Compose 和 buildx。
 - [Muxflow](https://github.com/gal064/muxflow) <img align="bottom" height="13" src="https://badgen.net/github/stars/gal064/muxflow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gal064/muxflow?style=flat&label=" /> - 面向编程智能体的远程优先 tmux IDE，支持多主机及桌面和手机通知。
 - [Wu](https://github.com/dstrml/wu) <img align="bottom" height="13" src="https://badgen.net/github/stars/dstrml/wu?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dstrml/wu?style=flat&label=" /> - 轻量级原生代码编辑器，内置 AI 智能体。
+- [Lapce](https://github.com/lapce/lapce) <img align="bottom" height="13" src="https://badgen.net/github/stars/lapce/lapce?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/lapce/lapce?style=flat&label=" /> - 基于纯 Rust 构建并支持 GPU 加速的高性能、极速开源代码编辑器。
 
 ## 财务
 
