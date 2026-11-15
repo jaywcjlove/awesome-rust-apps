@@ -251,6 +251,7 @@
 ## 阅读与研究
 
 - [Comic Commander](https://github.com/krocon/comic-commander-tauri) <img align="bottom" height="13" src="https://badgen.net/github/stars/krocon/comic-commander-tauri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/krocon/comic-commander-tauri?style=flat&label=" /> - 跨平台漫画浏览与阅读应用，支持 CBZ、CBR、CB7、CBT 和 PDF 文件。
+- [HistCite](https://github.com/yangnim21029/histcite-mac) <img align="bottom" height="13" src="https://badgen.net/github/stars/yangnim21029/histcite-mac?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yangnim21029/histcite-mac?style=flat&label=" /> - macOS 文献计量分析工具，可视化 Web of Science 引用关系与研究脉络。
 - [LightRead 轻阅](https://github.com/yzfly/LightRead) <img align="bottom" height="13" src="https://badgen.net/github/stars/yzfly/LightRead?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yzfly/LightRead?style=flat&label=" /> - 本地优先的电子书与论文阅读器，支持藏书管理、阅读进度和批注。
 - [Papr](https://github.com/l0ng-ai/papr) <img align="bottom" height="13" src="https://badgen.net/github/stars/l0ng-ai/papr?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/l0ng-ai/papr?style=flat&label=" /> - 原生 RSS 阅读器，提供命令行工具供 AI 助手阅读、搜索和整理订阅源。
 
