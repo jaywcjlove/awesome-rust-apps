@@ -218,6 +218,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 
 ## Development
 
+- [FluxCode](https://github.com/MuaraAI/FluxCode) <img align="bottom" height="13" src="https://badgen.net/github/stars/MuaraAI/FluxCode?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/MuaraAI/FluxCode?style=flat&label=" /> - A cross-platform AI code editor with an integrated agent, terminal, and Git tools.
 - [IDE TEA](https://github.com/fabiocmazzo/idetea) <img align="bottom" height="13" src="https://badgen.net/github/stars/fabiocmazzo/idetea?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fabiocmazzo/idetea?style=flat&label=" /> - A fast, quiet IDE written in pure Rust with iced, built for working side by side with coding agents.
 - [Kiri](https://github.com/libracoder/kiri) <img align="bottom" height="13" src="https://badgen.net/github/stars/libracoder/kiri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/libracoder/kiri?style=flat&label=" /> - A cross-platform container runtime that runs Docker images with Docker CLI, Compose, and buildx.
 - [Muxflow](https://github.com/gal064/muxflow) <img align="bottom" height="13" src="https://badgen.net/github/stars/gal064/muxflow?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/gal064/muxflow?style=flat&label=" /> - A remote-first tmux IDE for coding agents with multi-host support and notifications.
