@@ -276,6 +276,7 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [PixelSlim](https://github.com/zeospec/PixelSlim) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeospec/PixelSlim?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zeospec/PixelSlim?style=flat&label=" /> - A lightweight macOS batch image optimizer and format converter.
 - [RAWmakase](https://github.com/pch/rawmakase) <img align="bottom" height="13" src="https://badgen.net/github/stars/pch/rawmakase?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/pch/rawmakase?style=flat&label=" /> - A fast, non-destructive RAW photo developer with Lightroom-style controls.
 - [Shotnix](https://github.com/OMARVII/Shotnix) <img align="bottom" height="13" src="https://badgen.net/github/stars/OMARVII/Shotnix?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/OMARVII/Shotnix?style=flat&label=" /> - A native Mac app for screenshots, screen recordings, and video editing, with all captures kept local.
+- [Snow Shot](https://github.com/mg-chao/snow-shot) <img align="bottom" height="13" src="https://badgen.net/github/stars/mg-chao/snow-shot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mg-chao/snow-shot?style=flat&label=" /> - A screenshot and screen recording tool with annotation for Windows and macOS.
 
 ## Video & Audio
 
