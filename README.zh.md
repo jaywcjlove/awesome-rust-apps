@@ -211,6 +211,7 @@
 ## 数据库
 
 - [dbdiff](https://github.com/rekurt/dbdiff) <img align="bottom" height="13" src="https://badgen.net/github/stars/rekurt/dbdiff?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/rekurt/dbdiff?style=flat&label=" /> - 数据库结构对比工具，可检测偏差并生成可审阅的迁移 SQL。
+- [DBDock](https://github.com/dofy/DBDock) <img align="bottom" height="13" src="https://badgen.net/github/stars/dofy/DBDock?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/dofy/DBDock?style=flat&label=" /> - 原生 macOS 多数据库管理客户端。
 - [DBine](https://github.com/addlayer-io/dbine) <img align="bottom" height="13" src="https://badgen.net/github/stars/addlayer-io/dbine?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/addlayer-io/dbine?style=flat&label=" /> - 支持 SQL、NoSQL 数据库及云服务的桌面管理工具。
 - [Tabularis](https://github.com/TabularisDB/tabularis) <img align="bottom" height="13" src="https://badgen.net/github/stars/TabularisDB/tabularis?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/TabularisDB/tabularis?style=flat&label=" /> - 开源桌面 SQL 工作区，内置多种数据库驱动与插件。
 - [Tusk](https://github.com/alpcanaydin/tusk) <img align="bottom" height="13" src="https://badgen.net/github/stars/alpcanaydin/tusk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alpcanaydin/tusk?style=flat&label=" /> - 快速、键盘驱动的跨平台数据库客户端，支持 macOS、Windows 和 Linux。
