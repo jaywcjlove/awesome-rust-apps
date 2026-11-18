@@ -270,6 +270,7 @@
 ## 图形与设计
 
 - [AInnotator](https://github.com/porco-rs/ainnotator) <img align="bottom" height="13" src="https://badgen.net/github/stars/porco-rs/ainnotator?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/porco-rs/ainnotator?style=flat&label=" /> - macOS 截图标注工具，用于向 AI 编程助手传递视觉上下文。
+- [Fotollection](https://github.com/hoangphi01/fotollection) <img align="bottom" height="13" src="https://badgen.net/github/stars/hoangphi01/fotollection?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/hoangphi01/fotollection?style=flat&label=" /> - 旅行照片整理与冲印工具，可制作个性化照片和明信片。
 - [Gridvana](https://github.com/osdodo/gridvana) <img align="bottom" height="13" src="https://badgen.net/github/stars/osdodo/gridvana?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/osdodo/gridvana?style=flat&label=" /> - 支持人机协同创作的像素画与动画编辑器。
 - [Kiri](https://github.com/yuxino/kiri) <img align="bottom" height="13" src="https://badgen.net/github/stars/yuxino/kiri?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/yuxino/kiri?style=flat&label=" /> - 跨平台截图、标注、OCR 与区域录制工具。
 - [LocalSR](https://github.com/HerRei/local-upscale) <img align="bottom" height="13" src="https://badgen.net/github/stars/HerRei/local-upscale?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/HerRei/local-upscale?style=flat&label=" /> - 离线图像与视频增强工具，可放大照片并减少噪点和模糊。
