@@ -229,6 +229,7 @@
 ## 财务
 
 - [Finoinc](https://github.com/mateusfonsek/finoinc) <img align="bottom" height="13" src="https://badgen.net/github/stars/mateusfonsek/finoinc?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mateusfonsek/finoinc?style=flat&label=" /> - 私密的个人财务管理工具，数据保存在本地 SQLite 文件中。
+- [Hourmint](https://github.com/abdurrahmanriyad/hourmint) <img align="bottom" height="13" src="https://badgen.net/github/stars/abdurrahmanriyad/hourmint?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/abdurrahmanriyad/hourmint?style=flat&label=" /> - 原生 macOS 工时记录与客户计费应用。
 - [MythManDay](https://github.com/ljl8086/mythmanday) <img align="bottom" height="13" src="https://badgen.net/github/stars/ljl8086/mythmanday?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ljl8086/mythmanday?style=flat&label=" /> - 本地优先的工时与计费平台，用于记录可审计的人日。
 - [Zielzeit](https://github.com/Mannafee/zielzeit-scalable-capital) <img align="bottom" height="13" src="https://badgen.net/github/stars/Mannafee/zielzeit-scalable-capital?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Mannafee/zielzeit-scalable-capital?style=flat&label=" /> - macOS 菜单栏投资组合追踪工具，可预测 Scalable Capital 资产何时达到目标。
 
