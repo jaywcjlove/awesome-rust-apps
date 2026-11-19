@@ -255,6 +255,7 @@
 - [Deskfolk](https://github.com/Blackman99/deskfolk) <img align="bottom" height="13" src="https://badgen.net/github/stars/Blackman99/deskfolk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Blackman99/deskfolk?style=flat&label=" /> - 可将多步骤任务交给 AI 助手处理并审阅结果的桌面工作区。
 - [kwant](https://github.com/alexsergivan/kwant) <img align="bottom" height="13" src="https://badgen.net/github/stars/alexsergivan/kwant?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/alexsergivan/kwant?style=flat&label=" /> - 可自行部署的 AI 智能体协作平台，将多个智能体组成自主工作的虚拟团队。
 - [Stage Manager](https://github.com/eugene-tea/stage-manager) <img align="bottom" height="13" src="https://badgen.net/github/stars/eugene-tea/stage-manager?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/eugene-tea/stage-manager?style=flat&label=" /> - 仿照 Apple 台前调度并提供可选增强功能的 macOS 窗口管理应用。
+- [SuperBot](https://github.com/davidondrej/superbot) <img align="bottom" height="13" src="https://badgen.net/github/stars/davidondrej/superbot?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/davidondrej/superbot?style=flat&label=" /> - 自托管的 AI 智能体团队管理平台，每个智能体拥有独立对话和记忆。
 
 ## 阅读与研究
 
