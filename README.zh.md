@@ -306,6 +306,7 @@
 - [Digisensus Recorder](https://github.com/Digisensus/digisensus-recorder) <img align="bottom" height="13" src="https://badgen.net/github/stars/Digisensus/digisensus-recorder?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Digisensus/digisensus-recorder?style=flat&label=" /> - 免费的 macOS 通话录音与 AI 会议纪要工具，无需机器人入会。
 - [MovieBox-TUI](https://github.com/mesamirh/MovieBox-Tui) <img align="bottom" height="13" src="https://badgen.net/github/stars/mesamirh/MovieBox-Tui?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/mesamirh/MovieBox-Tui?style=flat&label=" /> - 终端界面，查找、下载并播放电影、剧集与直播电视。
 - [Voltip](https://github.com/sunerpy/voltip) <img align="bottom" height="13" src="https://badgen.net/github/stars/sunerpy/voltip?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/sunerpy/voltip?style=flat&label=" /> - 按住说话的语音输入工具，支持 Windows、macOS、Linux 和 Android，可本地或云端识别并用 AI 润色。
+- [Zenith](https://github.com/tonieninja/zenith-player) <img align="bottom" height="13" src="https://badgen.net/github/stars/tonieninja/zenith-player?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/tonieninja/zenith-player?style=flat&label=" /> - 非官方 YouTube Music 桌面播放器，支持同步歌词、15 段均衡器和离线下载。
 
 ## AI 与机器学习
 
