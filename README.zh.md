@@ -90,6 +90,7 @@
 
 ## 工具与实用程序
 
+- [Breathing Room](https://github.com/bucabay/breathing-room-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/bucabay/breathing-room-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bucabay/breathing-room-app?style=flat&label=" /> - macOS 磁盘空间分析、系统监控与安全清理工具。
 - [Glim](https://github.com/NeoPanic/Glim) <img align="bottom" height="13" src="https://badgen.net/github/stars/NeoPanic/Glim?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/NeoPanic/Glim?style=flat&label=" /> - 免费开源的 macOS 多格式文件查看器，可在同一工作空间阅读 Markdown、PDF、图片、JSON、CSV 和源代码。
 - [FlashTester](https://github.com/Dissimilis/FlashTester) <img align="bottom" height="13" src="https://badgen.net/github/stars/Dissimilis/FlashTester?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Dissimilis/FlashTester?style=flat&label=" /> - 检测 U 盘、SD 卡和磁盘的虚假容量、数据丢失及读写速度。
 - [flipfile](https://github.com/wcksnrdn/flipfile) <img align="bottom" height="13" src="https://badgen.net/github/stars/wcksnrdn/flipfile?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/wcksnrdn/flipfile?style=flat&label=" /> - 本地桌面文件格式转换工具，支持图片、PDF、Office 文档及音视频。
