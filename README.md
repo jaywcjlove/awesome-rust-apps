@@ -203,6 +203,8 @@ Contributions are welcome via PR, and I will feature your app on my social media
 - [Zond](https://github.com/zond-rs/zond) <img align="bottom" height="13" src="https://badgen.net/github/stars/zond-rs/zond?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zond-rs/zond?style=flat&label=" /> - Network scanner for discovering hosts, ports, services, and patched distro vulnerabilities.
 - [Panoply](https://github.com/anzal1/panoply) <img align="bottom" height="13" src="https://badgen.net/github/stars/anzal1/panoply?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/anzal1/panoply?style=flat&label=" /> - A desktop app with PDF, image, video and audio tools, OCR and ID photos that run on your device.
 
+- [Breathing Room](https://github.com/bucabay/breathing-room-app) <img align="bottom" height="13" src="https://badgen.net/github/stars/bucabay/breathing-room-app?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/bucabay/breathing-room-app?style=flat&label=" /> - An open-source macOS storage and maintenance app with reviewable cleanup plans.
+
 ## Communication
 
 - [FinchGram](https://github.com/FinchGram/FinchGram) <img align="bottom" height="13" src="https://badgen.net/github/stars/FinchGram/FinchGram?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/FinchGram/FinchGram?style=flat&label=" /> - An unofficial, open-source Telegram desktop client for macOS.
