@@ -366,6 +366,7 @@
 - [ThinkWatch Lite](https://github.com/ThinkWatchProject/ThinkWatch-Lite) <img align="bottom" height="13" src="https://badgen.net/github/stars/ThinkWatchProject/ThinkWatch-Lite?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/ThinkWatchProject/ThinkWatch-Lite?style=flat&label=" /> - 面向 Claude Code、Codex 等客户端的本地 AI 网关，支持模型路由、请求审计、密钥替换与危险工具调用拦截。
 - [Unterm](https://github.com/zhitongblog/unterm) <img align="bottom" height="13" src="https://badgen.net/github/stars/zhitongblog/unterm?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zhitongblog/unterm?style=flat&label=" /> - 跨平台终端 AI 智能体工作台，用于启动和管理智能体。
 - [Zeron](https://github.com/zeronsh/zeron) <img align="bottom" height="13" src="https://badgen.net/github/stars/zeronsh/zeron?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zeronsh/zeron?style=flat&label=" /> - 本地管理多种编程智能体的控制平台，支持多设备同步。
+- [JoeBro Desktop](https://github.com/joexk1/JoeBro-Desktop) <img align="bottom" height="13" src="https://badgen.net/github/stars/joexk1/JoeBro-Desktop?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/joexk1/JoeBro-Desktop?style=flat&label=" /> - 适用于 Windows 和 Linux 的本地优先 AI 智能体工作区，支持编程智能体与本地模型，共享记忆，无需账号。
 
 ## 贡献者
 
