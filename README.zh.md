@@ -212,6 +212,7 @@
 ## 云存储
 
 - [BucketBridge](https://github.com/anupshaw50/BucketBridge) <img align="bottom" height="13" src="https://badgen.net/github/stars/anupshaw50/BucketBridge?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/anupshaw50/BucketBridge?style=flat&label=" /> - 用于管理 Amazon S3 及兼容存储的桌面客户端，支持传输与同步。
+- [DriveCraft](https://github.com/fballiano/drivecraft) <img align="bottom" height="13" src="https://badgen.net/github/stars/fballiano/drivecraft?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fballiano/drivecraft?style=flat&label=" /> - 跨平台云盘同步工具，支持多个云存储服务与本地文件夹同步。
 
 ## 数据库
 
