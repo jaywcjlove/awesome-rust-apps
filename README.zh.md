@@ -202,6 +202,7 @@
 - [Multron Download Manager](https://github.com/Multron-Community/Multron-Download-Manager) <img align="bottom" height="13" src="https://badgen.net/github/stars/Multron-Community/Multron-Download-Manager?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/Multron-Community/Multron-Download-Manager?style=flat&label=" /> - 跨平台下载管理器，支持文件、在线视频和种子下载。
 - [Zond](https://github.com/zond-rs/zond) <img align="bottom" height="13" src="https://badgen.net/github/stars/zond-rs/zond?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/zond-rs/zond?style=flat&label=" /> - 网络扫描工具，用于发现主机、端口和服务，并识别发行版已修复的漏洞。
 - [Panoply](https://github.com/anzal1/panoply) <img align="bottom" height="13" src="https://badgen.net/github/stars/anzal1/panoply?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/anzal1/panoply?style=flat&label=" /> - 在设备上运行的桌面应用，提供 PDF、图像、视频和音频工具，以及 OCR 和证件照。
+- [FreeMyDisk](https://github.com/fzihak/FreeMyDisk) <img align="bottom" height="13" src="https://badgen.net/github/stars/fzihak/FreeMyDisk?style=flat&label=" /> <img align="bottom" height="13" src="https://img.shields.io/github/last-commit/fzihak/FreeMyDisk?style=flat&label=" /> - 安全的 Windows 磁盘清理工具，提供带风险标注的清理规则、优先移入回收站的删除方式，以及大文件、重复文件和 AI 缓存查找。
 
 ## 通讯
 
